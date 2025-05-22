@@ -40,7 +40,7 @@ jobs:
           action: "upload"
           app_location: "/" # your app source code root folder
           api_location: "" # no API folder
-          output_location: "." # output folder with your static files
+          output_location: "/" # output folder with your static files
           app_build_command: "" # explicitly no build command
           github_id_token: ${{ steps.idtoken.outputs.result }}
 
