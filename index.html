@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Flashcards with Bootstrap 5</title>
+  <!-- Bootstrap 5.3 CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body class="bg-light d-flex flex-column min-vh-100">
+
+  <div class="container py-5">
+    <h1 class="mb-4 text-center fw-bold">Flashcards - NAATI CCL Nepali</h1>
+
+    <div id="categories" class="d-flex flex-wrap justify-content-center gap-3 mb-4"></div>
+
+    <!-- Selected category name displayed here -->
+    <h3 id="selectedCategory" class="text-center mb-3 fw-semibold text-secondary" style="min-height: 2em;"></h3>
+
+    <div id="flashcard" 
+         class="card shadow-lg rounded-4 mx-auto bg-white text-center p-5 mb-4"
+         style="max-width: 450px; cursor: pointer; user-select: none;"
+         tabindex="0"
+         aria-label="Flashcard showing English word">
+      <div class="card-body">
+        <h2 id="flashcard-text" class="card-title fw-semibold display-5 text-primary"></h2>
+        <small class="text-muted fst-italic mt-2 d-block" id="flashcard-subtext">Click card to flip</small>
+      </div>
+    </div>
+
+    <div id="navigationButtons" class="d-flex justify-content-center gap-4 mb-4" style="display:none;">
+      <button id="prevBtn" class="btn btn-outline-primary btn-lg px-4">← Previous</button>
+      <button id="nextBtn" class="btn btn-outline-primary btn-lg px-4">Next →</button>
+    </div>
+
+    <!-- Counter Buttons and Counters grouped with counters under each button -->
+    <div id="counterButtons" class="d-flex justify-content-center gap-4 mb-4" style="display:none; max-width: 450px; margin: 0 auto;">
+      <div class="d-flex flex-column align-items-center">
+        <button id="rightBtn" class="btn btn-success btn-lg px-4 mb-2">
+          <i class="bi bi-check-circle-fill"></i> Right
+        </button>
+        <div id="rightCounter" class="fw-semibold fs-5 text-success">Right: <span id="rightCount">0</span></div>
+      </div>
+
+      <div class="d-flex flex-column align-items-center">
+        <button id="wrongBtn" class="btn btn-danger btn-lg px-4 mb-2">
+          <i class="bi bi-x-circle-fill"></i> Wrong
+        </button>
+        <div id="wrongCounter" class="fw-semibold fs-5 text-danger">Wrong: <span id="wrongCount">0</span></div>
+      </div>
+    </div>
+
+    <!-- Progress bars below counters, full width and centered -->
+    <div id="progressBars" class="mx-auto" style="max-width: 450px; display:none;">
+      <div class="progress rounded-pill" style="height: 24px;">
+        <div id="rightProgress" class="progress-bar bg-success" role="progressbar" style="width: 0%" aria-valuemin="0" aria-valuemax="100"></div>
+        <div id="wrongProgress" class="progress-bar bg-danger" role="progressbar" style="width: 0%" aria-valuemin="0" aria-valuemax="100"></div>
+      </div>
+    </div>
+
+    <div id="message" class="text-center text-danger mt-4 fs-5"></div>
+  </div>
+
+  <!-- Bootstrap Icons CDN -->
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"
+  />
+  <script src="script.js"></script>
+</body>
+</html>

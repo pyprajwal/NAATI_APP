@@ -1,0 +1,22 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#flashcard {
+  transition: transform 0.5s ease;
+  user-select: none;
+}
+
+#flashcard.flipped {
+  transform: rotateY(180deg);
+}
+
+#flashcard-text {
+  min-height: 4rem;
+  user-select: none;
+}
+
+button:focus {
+  box-shadow: 0 0 0 0.25rem rgb(13 110 253 / 0.5);
+  outline: none;
+}
