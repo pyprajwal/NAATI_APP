@@ -38,7 +38,6 @@ function selectCategory(category) {
 
   document.getElementById('selectedCategory').textContent = currentCategory;
 
-
   if (wordsData[category].length === 0) {
     showFlashcardText('No words in this category.');
     toggleControls(false);
@@ -55,8 +54,27 @@ function showFlashcard() {
 }
 
 function showFlashcardText(text) {
-  document.getElementById('flashcard-text').textContent = text;
+  const textEl = document.getElementById('flashcard-text');
+  const flashcardEl = document.getElementById('flashcard');
+
+  textEl.textContent = text;
+
+  // Start font size at 48px
+  let fontSize = 48;
+  textEl.style.fontSize = fontSize + "px";
+
+  const minFontSize = 12;
+
+  // Reduce font size while text overflows flashcard box
+  while (
+    (textEl.scrollHeight > flashcardEl.clientHeight || textEl.scrollWidth > flashcardEl.clientWidth) &&
+    fontSize > minFontSize
+  ) {
+    fontSize--;
+    textEl.style.fontSize = fontSize + "px";
+  }
 }
+
 
 function resetCounters() {
   rightCount = 0;
@@ -73,7 +91,7 @@ function toggleControls(show) {
   const display = show ? 'flex' : 'none';
   document.getElementById('navigationButtons').style.display = display;
   document.getElementById('counterButtons').style.display = display;
-  document.getElementById('counters').style.display = display;
+  // You had a 'counters' id toggle here, but no element with that id in your HTML, so skipping it
 }
 
 // Flip flashcard on click
