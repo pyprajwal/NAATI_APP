@@ -1,259 +1,3352 @@
 {
+  "SOCIAL SERVICES": [
+    {
+      "English": "social services",
+      "Nepali": "सामाजिक सेवा"
+    },
+    {
+      "English": "allowance",
+      "Nepali": "भत्ता"
+    },
+    {
+      "English": "youth allowance",
+      "Nepali": "युवा भत्ता"
+    },
+    {
+      "English": "disability support pension",
+      "Nepali": "अशक्तता सहायता भत्ता"
+    },
+    {
+      "English": "newstart allowance",
+      "Nepali": "नव सुरुवाती भत्ता"
+    },
+    {
+      "English": "unemployment allowance",
+      "Nepali": "बेरोिगारी भत्ता"
+    },
+    {
+      "English": "carer allowance",
+      "Nepali": "स्याहार कताा भत्ता"
+    },
+    {
+      "English": "single parenting payment",
+      "Nepali": "एकल अभभभावक भत्ता"
+    },
+    {
+      "English": "discuss",
+      "Nepali": "छलफल"
+    },
+    {
+      "English": "application",
+      "Nepali": "आवेदन"
+    },
+    {
+      "English": "centrelink",
+      "Nepali": "Centrelink"
+    },
+    {
+      "English": "partner",
+      "Nepali": "िोडी / दम्पती"
+    },
+    {
+      "English": "trainer",
+      "Nepali": "प्रभशक्षक"
+    },
+    {
+      "English": "experienced",
+      "Nepali": "अनुभवी"
+    },
+    {
+      "English": "household chores",
+      "Nepali": "घरायसी काम"
+    },
+    {
+      "English": "session",
+      "Nepali": "सत्र"
+    },
+    {
+      "English": "aged care centre",
+      "Nepali": "वदृ्ध स्याहार केन्द्र"
+    },
+    {
+      "English": "health condition",
+      "Nepali": "स्वास््य अवस्था"
+    },
+    {
+      "English": "care plan",
+      "Nepali": "स्याहार योिना"
+    },
+    {
+      "English": "activities",
+      "Nepali": "क्रियाकलाप"
+    },
+    {
+      "English": "interest",
+      "Nepali": "इच्छा"
+    },
+    {
+      "English": "social event",
+      "Nepali": "सामाजिक कायािम"
+    },
+    {
+      "English": "community centre",
+      "Nepali": "सामुदाययक केन्द्र"
+    },
+    {
+      "English": "volunteer",
+      "Nepali": "स्वयंसेवक"
+    },
+    {
+      "English": "independent",
+      "Nepali": "स्वतन्द्त्र / आत्मयनभार"
+    },
+    {
+      "English": "agency",
+      "Nepali": "संस्था"
+    },
+    {
+      "English": "dependent",
+      "Nepali": "यनभार / आश्रित"
+    },
+    {
+      "English": "eligible",
+      "Nepali": "योग्य"
+    },
+    {
+      "English": "financial support",
+      "Nepali": "ववत्तीय सहायता"
+    },
+    {
+      "English": "full-time",
+      "Nepali": "पूर्ा काभलन"
+    },
+    {
+      "English": "part-time",
+      "Nepali": "आंभशक काभलन"
+    },
+    {
+      "English": "casual",
+      "Nepali": "अस्थायी"
+    },
+    {
+      "English": "migrant/immigrant",
+      "Nepali": "प्रवासी / आप्रवासी"
+    },
+    {
+      "English": "service recipient",
+      "Nepali": "सेवा प्रापक"
+    },
+    {
+      "English": "home care package",
+      "Nepali": "गहृ स्याहार योिना"
+    },
+    {
+      "English": "meals on wheels",
+      "Nepali": "घरमै खाना पयुााउने सेवा"
+    },
+    {
+      "English": "interview",
+      "Nepali": "अन्द्तवााताा"
+    },
+    {
+      "English": "assessment team",
+      "Nepali": "मूलयांकन टोली"
+    },
+    {
+      "English": "gardening",
+      "Nepali": "बागवानी"
+    },
+    {
+      "English": "case manager",
+      "Nepali": "माभमला व्यवस्थापक"
+    },
+    {
+      "English": "no show no pay penalty",
+      "Nepali": "उपजस्थयत निनाए भुक्तानी नपाउने िररबाना"
+    }
+  ],
+  "LEGAL": [
+    {
+      "English": "lawyer/solicitor",
+      "Nepali": "वकिल"
+    },
+    {
+      "English": "attorney",
+      "Nepali": "वकिल / अधिवक्ता"
+    },
+    {
+      "English": "barrister",
+      "Nepali": "प्रिान वकिल"
+    },
+    {
+      "English": "associate",
+      "Nepali": "सहिर्मी"
+    },
+    {
+      "English": "duty solicitor",
+      "Nepali": "िार्यरत वकिल"
+    },
+    {
+      "English": "legal aid officer",
+      "Nepali": "िानुनी सहार्ता अधििृत"
+    },
+    {
+      "English": "offender",
+      "Nepali": "अपरािी"
+    },
+    {
+      "English": "plaintiff",
+      "Nepali": "वादी"
+    },
+    {
+      "English": "defendant",
+      "Nepali": "प्रततवादी"
+    },
+    {
+      "English": "client",
+      "Nepali": "सेवाग्राही / ग्राहि"
+    },
+    {
+      "English": "law firm",
+      "Nepali": "िानुनी फर्मय/िार्ायलर्"
+    },
+    {
+      "English": "court",
+      "Nepali": "अदालत"
+    },
+    {
+      "English": "court order",
+      "Nepali": "अदालती आदेश"
+    },
+    {
+      "English": "judge",
+      "Nepali": "न्र्ार्ािीश"
+    },
+    {
+      "English": "witness",
+      "Nepali": "साक्षी"
+    },
+    {
+      "English": "eyewitness",
+      "Nepali": "प्रत्र्क्षदशी"
+    },
+    {
+      "English": "employer",
+      "Nepali": "रोजगारदाता"
+    },
+    {
+      "English": "co-worker",
+      "Nepali": "सहिर्मी"
+    },
+    {
+      "English": "lawyer’s chamber",
+      "Nepali": "वकिलिो िक्ष"
+    },
+    {
+      "English": "legal aid office",
+      "Nepali": "िानूनी सहार्ता िार्ायलर्"
+    },
+    {
+      "English": "accident",
+      "Nepali": "दरु्यटना"
+    },
+    {
+      "English": "incident",
+      "Nepali": "र्टना"
+    },
+    {
+      "English": "agree",
+      "Nepali": "सहर्मत हुन ु"
+    },
+    {
+      "English": "careless",
+      "Nepali": "लापरवाह"
+    },
+    {
+      "English": "no-win-no-pay policy",
+      "Nepali": "र्मुद्दा नजजते भुक्तानी गनुय नपने नीतत"
+    },
+    {
+      "English": "injury",
+      "Nepali": "चोट"
+    },
+    {
+      "English": "public place",
+      "Nepali": "सावयजतनि स्थल"
+    },
+    {
+      "English": "party",
+      "Nepali": "पक्ष"
+    },
+    {
+      "English": "compensation",
+      "Nepali": "क्षततपूततय"
+    },
+    {
+      "English": "report",
+      "Nepali": "ररपोटय / प्रततवेदन"
+    },
+    {
+      "English": "evidence",
+      "Nepali": "प्रर्माण"
+    },
+    {
+      "English": "corroborate",
+      "Nepali": "पुजटट गनुय"
+    },
+    {
+      "English": "criminal injury compensation act",
+      "Nepali": "आपराधिि चोट क्षततपूततय ऐन"
+    },
+    {
+      "English": "pain and suffering",
+      "Nepali": "पीडा तथा िटट"
+    },
+    {
+      "English": "loss of amenities of life",
+      "Nepali": "जीवनस्तरर्मा ह्रास आउन ु"
+    },
+    {
+      "English": "rehabilitation",
+      "Nepali": "पुनस्थायपना"
+    },
+    {
+      "English": "out-of-pocket expense",
+      "Nepali": "बिर्माले न िेहोने रिर्म"
+    },
+    {
+      "English": "legal action",
+      "Nepali": "िानूनी िारिाही"
+    },
+    {
+      "English": "claim",
+      "Nepali": "दावी"
+    },
+    {
+      "English": "workers compensation",
+      "Nepali": "िार्मदार क्षततपूततय"
+    },
+    {
+      "English": "medical record",
+      "Nepali": "धचकित्सिीर् अभभलेख"
+    },
+    {
+      "English": "medical expense",
+      "Nepali": "धचकित्सिीर् खचय"
+    },
+    {
+      "English": "medical bills",
+      "Nepali": "धचकित्सिीर् रभसद"
+    },
+    {
+      "English": "lodge",
+      "Nepali": "दाखखला गनुय"
+    },
+    {
+      "English": "application",
+      "Nepali": "आवेदन"
+    },
+    {
+      "English": "appointment",
+      "Nepali": "भेटवाताय"
+    },
+    {
+      "English": "safety protocol",
+      "Nepali": "सुरक्षा नीतत"
+    },
+    {
+      "English": "power of attorney",
+      "Nepali": "अजततर्ारनार्मा / र्मुजततर्ारी / वारेसनार्मा"
+    },
+    {
+      "English": "enduring power of attorney",
+      "Nepali": "स्थार्ी अजततर्ारनार्मा"
+    },
+    {
+      "English": "general power of attorney",
+      "Nepali": "सार्मना अजततर्ारनार्मा"
+    },
+    {
+      "English": "sign",
+      "Nepali": "हस्ताक्षर/सही गनुय"
+    },
+    {
+      "English": "disability",
+      "Nepali": "अशक्तता"
+    },
+    {
+      "English": "legal advice",
+      "Nepali": "िानुनी सल्लाह"
+    },
+    {
+      "English": "violate",
+      "Nepali": "उल्लङ्र्न गनुय"
+    },
+    {
+      "English": "sue",
+      "Nepali": "र्मुद्दा हाल्नु"
+    },
+    {
+      "English": "injunction",
+      "Nepali": "तनषेिाज्ञा"
+    },
+    {
+      "English": "grey area",
+      "Nepali": "अस्पटट के्षत्र"
+    },
+    {
+      "English": "case",
+      "Nepali": "र्मुद्दा / र्माभर्मला"
+    },
+    {
+      "English": "litigation",
+      "Nepali": "र्मुद्दा"
+    },
+    {
+      "English": "hearing",
+      "Nepali": "सुनुवाइ"
+    },
+    {
+      "English": "trial",
+      "Nepali": "पुपयक्ष"
+    },
+    {
+      "English": "file",
+      "Nepali": "भर्मभसल"
+    },
+    {
+      "English": "cross-examine",
+      "Nepali": "छड्िे जाांच"
+    },
+    {
+      "English": "out-of-court settlement",
+      "Nepali": "अदालतिो सांलग्नताबिना र्मेलभर्मलाप गनुय"
+    },
+    {
+      "English": "physiotherapy",
+      "Nepali": "भौतति धचकित्सा"
+    },
+    {
+      "English": "supporting document",
+      "Nepali": "सहार्ि िागजात"
+    },
+    {
+      "English": "investigation",
+      "Nepali": "अनुसन्िान"
+    },
+    {
+      "English": "confidential",
+      "Nepali": "गोपनीर्"
+    },
+    {
+      "English": "divorce",
+      "Nepali": "सम्मन्ि ववच्छेद"
+    },
+    {
+      "English": "child custody",
+      "Nepali": "वाल तनगरानी / सांरक्ष्ण"
+    },
+    {
+      "English": "contact",
+      "Nepali": "सम्पिय  गनुय"
+    },
+    {
+      "English": "guardianship",
+      "Nepali": "अभभरक्षित्व / अभभभावित्व"
+    },
+    {
+      "English": "public trustee",
+      "Nepali": "सावयजतनि गठुी"
+    },
+    {
+      "English": "jurisdiction",
+      "Nepali": "के्षत्राधििार"
+    },
+    {
+      "English": "whiplash injury",
+      "Nepali": "झट्िा र्महसुस हुुँदा र्ाुँटीर्मा लाग्ने चोट"
+    },
+    {
+      "English": "neck collar",
+      "Nepali": "र्ाुँटीर्मा िाुँधिने पट्टा"
+    },
+    {
+      "English": "entitle",
+      "Nepali": "हिदार"
+    },
+    {
+      "English": "testimony",
+      "Nepali": "िर्ान"
+    },
+    {
+      "English": "prosecute",
+      "Nepali": "अभभर्ोग लगाउन ु"
+    },
+    {
+      "English": "accuse",
+      "Nepali": "आरोप लगाउनु"
+    }
+  ],
+  "INSURANCE": [
+    {
+      "English": "insurance",
+      "Nepali": "बीमा"
+    },
+    {
+      "English": "customer",
+      "Nepali": "ग्राहक"
+    },
+    {
+      "English": "client",
+      "Nepali": "सेवा ग्राही"
+    },
+    {
+      "English": "agent",
+      "Nepali": "अभिकर्ाा"
+    },
+    {
+      "English": "insurance company/insurer",
+      "Nepali": "बबमा संस्था / बबमाकर्ाा"
+    },
+    {
+      "English": "insured",
+      "Nepali": "बबभमर्"
+    },
+    {
+      "English": "claim",
+      "Nepali": "दाबी"
+    },
+    {
+      "English": "form",
+      "Nepali": "फारम"
+    },
+    {
+      "English": "quote",
+      "Nepali": "मूल्य"
+    },
+    {
+      "English": "accident",
+      "Nepali": "दरु्ाटना"
+    },
+    {
+      "English": "ambulance",
+      "Nepali": "रुग्नाबाहन / आकस्स्मक बाहन"
+    },
+    {
+      "English": "make of vehicle",
+      "Nepali": "गाडीको बानावट/कम्पनी"
+    },
+    {
+      "English": "policy number",
+      "Nepali": "नीतर् सखं्या"
+    },
+    {
+      "English": "driving license",
+      "Nepali": "सवारीचालक अनुमतर्पत्र"
+    },
+    {
+      "English": "prohibited",
+      "Nepali": "प्रतर्बस्धिर् / तनषेधिर्"
+    },
+    {
+      "English": "eyewitness",
+      "Nepali": "प्रत्यक्ष दर्शी"
+    },
+    {
+      "English": "solid evidence",
+      "Nepali": "ठोस प्रमाण"
+    },
+    {
+      "English": "liable",
+      "Nepali": "स्िम्मेवार"
+    },
+    {
+      "English": "damage",
+      "Nepali": "क्षतर्"
+    },
+    {
+      "English": "excess",
+      "Nepali": "थप रकम"
+    },
+    {
+      "English": "cover damage",
+      "Nepali": "क्षतर् बेहोनुा"
+    },
+    {
+      "English": "used car",
+      "Nepali": "प्रत्योग गररएको गाडी"
+    },
+    {
+      "English": "insurance policy",
+      "Nepali": "बबमा नीतर्"
+    },
+    {
+      "English": "photo ID",
+      "Nepali": "र्स्स्वर िएको पररचयपत्र"
+    },
+    {
+      "English": "passport",
+      "Nepali": "राहदानी"
+    },
+    {
+      "English": "compulsory third-party insurance (CTP)",
+      "Nepali": "अतनवाया र्से्रो पक्ष बबमा"
+    },
+    {
+      "English": "green slip",
+      "Nepali": "हररयो पची"
+    },
+    {
+      "English": "registration number (rego)",
+      "Nepali": "दर्ाा संख्या"
+    },
+    {
+      "English": "renew",
+      "Nepali": "नवीकरण"
+    },
+    {
+      "English": "third party property insurance",
+      "Nepali": "्ेस्रो पक्ष सम्पत्ति बबमा"
+    },
+    {
+      "English": "necklace",
+      "Nepali": "हार"
+    },
+    {
+      "English": "valuable",
+      "Nepali": "बहुमुल्य"
+    },
+    {
+      "English": "gift",
+      "Nepali": "उपहार"
+    },
+    {
+      "English": "replace",
+      "Nepali": "प्रतर्स्थापन"
+    },
+    {
+      "English": "proof of purchase",
+      "Nepali": "खररदको प्रमाण"
+    },
+    {
+      "English": "home and content insurance",
+      "Nepali": "र्र र्था सामग्रीको बबमा"
+    },
+    {
+      "English": "incident",
+      "Nepali": "र्टना"
+    },
+    {
+      "English": "single-item policy",
+      "Nepali": "एकल वस्र्ु बीमा"
+    },
+    {
+      "English": "information",
+      "Nepali": "्ाानकारी"
+    },
+    {
+      "English": "jewellery",
+      "Nepali": "गरगहना"
+    },
+    {
+      "English": "additional premium",
+      "Nepali": "थप बीमा र्शुल्क"
+    },
+    {
+      "English": "review",
+      "Nepali": "सभमक्षा"
+    },
+    {
+      "English": "travel insurance",
+      "Nepali": "यात्रा बीमा"
+    },
+    {
+      "English": "flight",
+      "Nepali": "उडान"
+    },
+    {
+      "English": "recommend",
+      "Nepali": "भसफाररस गनुा"
+    },
+    {
+      "English": "cancel",
+      "Nepali": "रद्द गनुा"
+    },
+    {
+      "English": "standard cover",
+      "Nepali": "सामाधय बबमा"
+    },
+    {
+      "English": "top/premium cover",
+      "Nepali": "त्तवभर्शष्ट बबमा"
+    },
+    {
+      "English": "gold extra cover",
+      "Nepali": "स्वणा/त्तवभर्शष्ट बबमा"
+    },
+    {
+      "English": "comprehensive protection",
+      "Nepali": "बहृर् सुरक्षा"
+    },
+    {
+      "English": "out of pocket expense",
+      "Nepali": "बीमाले नबहेोने रकम"
+    },
+    {
+      "English": "accidental damage",
+      "Nepali": "्ुल्पुवाक िएको क्षतर्"
+    },
+    {
+      "English": "medical expense",
+      "Nepali": "धचककत्सकीय खचा"
+    },
+    {
+      "English": "contact detail",
+      "Nepali": "सम्पका  त्तववरण"
+    },
+    {
+      "English": "police report",
+      "Nepali": "प्रहरी ररपोटा/उिुरी"
+    },
+    {
+      "English": "document",
+      "Nepali": "कागिार्"
+    },
+    {
+      "English": "mechanic",
+      "Nepali": "भमस्त्री"
+    },
+    {
+      "English": "repair centre",
+      "Nepali": "ममार् केधर"
+    },
+    {
+      "English": "hesitate",
+      "Nepali": "हहस्ककचाउनु"
+    },
+    {
+      "English": "Medicare",
+      "Nepali": "medicare"
+    },
+    {
+      "English": "migrant",
+      "Nepali": "प्रवासी"
+    },
+    {
+      "English": "private insurance",
+      "Nepali": "तनस्ि बबमा"
+    },
+    {
+      "English": "family insurance",
+      "Nepali": "पाररवाररक बबमा"
+    },
+    {
+      "English": "brochure",
+      "Nepali": "्ाानकारी पची"
+    },
+    {
+      "English": "dental cover",
+      "Nepali": "दधर् बीमा"
+    },
+    {
+      "English": "optical cover",
+      "Nepali": "आँखाको बीमा"
+    },
+    {
+      "English": "protection",
+      "Nepali": "सुरक्षा"
+    },
+    {
+      "English": "basic package",
+      "Nepali": "सामाधय बीमा"
+    },
+    {
+      "English": "crack",
+      "Nepali": "चकका एको"
+    },
+    {
+      "English": "device",
+      "Nepali": "उपकरण"
+    },
+    {
+      "English": "reimbursed",
+      "Nepali": "कफर्ाा गनुा / प्रतर्पुर्ी"
+    },
+    {
+      "English": "unauthorized",
+      "Nepali": "अनाधिकृर्"
+    },
+    {
+      "English": "warranty",
+      "Nepali": "warranty"
+    },
+    {
+      "English": "pet insurance",
+      "Nepali": "पर्शु/र्र पालुवा िनावर बबमा"
+    },
+    {
+      "English": "veterinarian",
+      "Nepali": "पर्शु धचककत्सक"
+    },
+    {
+      "English": "cancer",
+      "Nepali": "कका  रोग / अबुाि रोग"
+    },
+    {
+      "English": "consultation fee",
+      "Nepali": "परामर्शा र्शुल्क"
+    },
+    {
+      "English": "medical bill",
+      "Nepali": "धचककत्सकीय रभसद"
+    },
+    {
+      "English": "vaccination",
+      "Nepali": "खोप"
+    },
+    {
+      "English": "original receipt",
+      "Nepali": "सक्कली रभसद"
+    },
+    {
+      "English": "ownership",
+      "Nepali": "स्वाभमत्व"
+    },
+    {
+      "English": "bank statement",
+      "Nepali": "बैंकको त्तववरणपत्र"
+    },
+    {
+      "English": "report",
+      "Nepali": "उिुरी गनुा / खबर गनुा"
+    },
+    {
+      "English": "local police",
+      "Nepali": "स्थानीय प्रहरी"
+    },
+    {
+      "English": "certified translation",
+      "Nepali": "प्रमाणणर् अनुवादन"
+    },
+    {
+      "English": "eligible",
+      "Nepali": "योग्य"
+    },
+    {
+      "English": "membership",
+      "Nepali": "सदस्यर्ा"
+    },
+    {
+      "English": "mail",
+      "Nepali": "हुलाक"
+    },
+    {
+      "English": "insurance card",
+      "Nepali": "बीमा काडा/पत्र"
+    },
+    {
+      "English": "dent",
+      "Nepali": "कुस्कचएको"
+    },
+    {
+      "English": "scratch",
+      "Nepali": "कोररएको"
+    },
+    {
+      "English": "windshield",
+      "Nepali": "गाडीको अगाडडको ठुलो भससा"
+    },
+    {
+      "English": "reference number",
+      "Nepali": "सधदिा संख्या"
+    },
+    {
+      "English": "natural disaster",
+      "Nepali": "प्राकृतर्क प्रकोप"
+    },
+    {
+      "English": "storm",
+      "Nepali": "आँिीबेरी"
+    },
+    {
+      "English": "flood",
+      "Nepali": "बाढी"
+    },
+    {
+      "English": "hailstorm",
+      "Nepali": "अभसना"
+    },
+    {
+      "English": "surgery",
+      "Nepali": "र्शल्यकिया"
+    },
+    {
+      "English": "bulk billing",
+      "Nepali": "थोक रभसद"
+    },
+    {
+      "English": "pay upfront",
+      "Nepali": "अधग्रम िुक्र्ानी"
+    }
+  ],
+  "IMMIGRATION": [
+    {
+      "English": "immigration",
+      "Nepali": "आप्रवास"
+    },
+    {
+      "English": "settlement",
+      "Nepali": "बसोबास"
+    },
+    {
+      "English": "migrant",
+      "Nepali": "प्रवासी"
+    },
+    {
+      "English": "agent",
+      "Nepali": "अभिकर्ाा"
+    },
+    {
+      "English": "client service officer",
+      "Nepali": "सेवाग्राही सेवा अधिकृर्"
+    },
+    {
+      "English": "case officer",
+      "Nepali": "माभमला अधिकृर्"
+    },
+    {
+      "English": "immigration officer",
+      "Nepali": "आप्रवास अधिकृर्"
+    },
+    {
+      "English": "local community service",
+      "Nepali": "स्थानीय सामुदाययक सेवा"
+    },
+    {
+      "English": "consultation",
+      "Nepali": "परामर्ा"
+    },
+    {
+      "English": "passport",
+      "Nepali": "राहदानी"
+    },
+    {
+      "English": "tax file number",
+      "Nepali": "कर भमभसल सङ्ख्या"
+    },
+    {
+      "English": "Medicare",
+      "Nepali": "Medicare"
+    },
+    {
+      "English": "Centrelink",
+      "Nepali": "Centrelink"
+    },
+    {
+      "English": "parental visa",
+      "Nepali": "अभििावक प्रवेर्ाज्ञा"
+    },
+    {
+      "English": "student visa",
+      "Nepali": "ववद्याथी प्रवेर्ाज्ञा"
+    },
+    {
+      "English": "tourist/visit visa",
+      "Nepali": "पयाटक प्रवेर्ाज्ञा"
+    },
+    {
+      "English": "dependent visa",
+      "Nepali": "दम्पर्ी प्रवेर्ाज्ञा / पाररवाररक प्रवरे्ाज्ञा"
+    },
+    {
+      "English": "bridging visa",
+      "Nepali": "अन्र्ररम प्रवेर्ाज्ञा"
+    },
+    {
+      "English": "skilled graduate temporary visa",
+      "Nepali": "दक्ष दीक्षक्षर् अस्थायी प्रवेर्ाज्ञा"
+    },
+    {
+      "English": "refugee",
+      "Nepali": "र्रणाथी"
+    },
+    {
+      "English": "refuge/asylum",
+      "Nepali": "आश्रय स्थल"
+    },
+    {
+      "English": "human rights",
+      "Nepali": "मानव अधिकार"
+    },
+    {
+      "English": "humanitarian visa",
+      "Nepali": "मानवीय प्रवेर्ाज्ञा"
+    },
+    {
+      "English": "expiry date",
+      "Nepali": "अन्न्र्म म्याद"
+    },
+    {
+      "English": "permanent resident",
+      "Nepali": "स्थायी बाभसन्दा"
+    },
+    {
+      "English": "permanent residency",
+      "Nepali": "स्थायी बसोबास/प्रवेर्ाज्ञा"
+    },
+    {
+      "English": "citizenship",
+      "Nepali": "नागररकर्ा"
+    },
+    {
+      "English": "official translation",
+      "Nepali": "आधिकाररक अनुवादन"
+    },
+    {
+      "English": "migrate",
+      "Nepali": "बसाइ सराइ गनुा"
+    },
+    {
+      "English": "Department of Home Affairs (DHA)",
+      "Nepali": "गहृ माभमला वविाग"
+    },
+    {
+      "English": "Department of Human Services",
+      "Nepali": "मानव सेवा वविाग"
+    },
+    {
+      "English": "Immigration department",
+      "Nepali": "अध्यागमन वविाग"
+    },
+    {
+      "English": "policy",
+      "Nepali": "नीयर्"
+    },
+    {
+      "English": "education background",
+      "Nepali": "र्ैक्षक्षक पषृ्ठिूभम"
+    },
+    {
+      "English": "file",
+      "Nepali": "भमभसल / file"
+    },
+    {
+      "English": "occupation list",
+      "Nepali": "पेसा सुची"
+    },
+    {
+      "English": "employment",
+      "Nepali": "रोजगार"
+    },
+    {
+      "English": "income",
+      "Nepali": "आय आम्दानी"
+    },
+    {
+      "English": "immigration policy",
+      "Nepali": "अध्यागमन नीयर्"
+    },
+    {
+      "English": "migration review tribunal",
+      "Nepali": "प्रवास समीक्षा न्यायाधिकरण"
+    },
+    {
+      "English": "adult migrant English program",
+      "Nepali": "वयस्क प्रवासी अंग्रेजी कायाक्रम"
+    },
+    {
+      "English": "language school",
+      "Nepali": "्ााषा बबद्ध्यालय"
+    },
+    {
+      "English": "national language",
+      "Nepali": "रान्ष्िय िाषा"
+    },
+    {
+      "English": "record",
+      "Nepali": "अभिलेख"
+    },
+    {
+      "English": "document",
+      "Nepali": "कागजार् / कागर्पत्र"
+    },
+    {
+      "English": "application",
+      "Nepali": "आवेदन"
+    },
+    {
+      "English": "lodge",
+      "Nepali": "दाखखला गराउनु"
+    },
+    {
+      "English": "bank account",
+      "Nepali": "बैंक खार्ा"
+    },
+    {
+      "English": "skills assessment",
+      "Nepali": "सीप मूलयांकन"
+    },
+    {
+      "English": "authorities",
+      "Nepali": "अधिकारीहरू"
+    },
+    {
+      "English": "surrender",
+      "Nepali": "आत्म-समपाण गनुा / सुम्पनु"
+    },
+    {
+      "English": "special consideration",
+      "Nepali": "ववर्ेष मान्यर्ा"
+    },
+    {
+      "English": "obligation",
+      "Nepali": "दाययत्व"
+    },
+    {
+      "English": "publish",
+      "Nepali": "प्रकाभर्र् गनुा"
+    },
+    {
+      "English": "interview",
+      "Nepali": "अन्र्वाार्ाा"
+    },
+    {
+      "English": "appointment",
+      "Nepali": "्ेटवार्ाा"
+    },
+    {
+      "English": "experience",
+      "Nepali": "अनुिव"
+    },
+    {
+      "English": "lifestyle",
+      "Nepali": "जीवनर्ैली"
+    },
+    {
+      "English": "family and relatives",
+      "Nepali": "पररवार र्था नार्ेदारहरू"
+    },
+    {
+      "English": "multicultural",
+      "Nepali": "बहुसांस्कृयर्क"
+    },
+    {
+      "English": "challenge",
+      "Nepali": "चुनौर्ी"
+    },
+    {
+      "English": "freedom",
+      "Nepali": "स्वर्न्त्रर्ा"
+    },
+    {
+      "English": "social gathering",
+      "Nepali": "सामान्जक जमघट"
+    },
+    {
+      "English": "migrant support group",
+      "Nepali": "प्रवासी सहायर्ा समूह"
+    },
+    {
+      "English": "eligible",
+      "Nepali": "योग्य"
+    },
+    {
+      "English": "community library",
+      "Nepali": "सामुदाययक पुस्र्कालय"
+    },
+    {
+      "English": "resource booklet",
+      "Nepali": "सामग्री/जानकारी पनु्स्र्का"
+    },
+    {
+      "English": "download",
+      "Nepali": "Download"
+    },
+    {
+      "English": "practice test",
+      "Nepali": "अभ्यास परीक्षा"
+    },
+    {
+      "English": "notice board",
+      "Nepali": "सूचना पाटी"
+    },
+    {
+      "English": "beginner",
+      "Nepali": "सुरुवार्ी / भसकारु"
+    },
+    {
+      "English": "intermediate",
+      "Nepali": "मध्यम / मध्यवर्ी"
+    },
+    {
+      "English": "enrol",
+      "Nepali": "्नाा गनुा"
+    },
+    {
+      "English": "middle-aged",
+      "Nepali": "अिबैँसे"
+    },
+    {
+      "English": "group session",
+      "Nepali": "सामूहहक सत्र"
+    },
+    {
+      "English": "current address",
+      "Nepali": "हालको ठेगाना"
+    },
+    {
+      "English": "driver’s license",
+      "Nepali": "सवारी चालक अनुमयर्पत्र"
+    },
+    {
+      "English": "renew",
+      "Nepali": "नवीकरण गनुा"
+    },
+    {
+      "English": "requirement",
+      "Nepali": "आवश्यकर्ा"
+    },
+    {
+      "English": "mother-in-law",
+      "Nepali": "सासू"
+    },
+    {
+      "English": "social security benefit",
+      "Nepali": "सामान्जक सुरक्षा सुवविा"
+    }
+  ],
+  "HOUSING": [
+    {
+      "English": "tenant/renter",
+      "Nepali": "भाडावाल / भाडादार"
+    },
+    {
+      "English": "tenancy agreement",
+      "Nepali": "भाडादारी सम्झौता"
+    },
+    {
+      "English": "landlord/owner",
+      "Nepali": "घरबेटी"
+    },
+    {
+      "English": "real estate agent",
+      "Nepali": "घरजग्गा अभभकताा"
+    },
+    {
+      "English": "building manager",
+      "Nepali": "भवन व्यवस्थापक"
+    },
+    {
+      "English": "rental market",
+      "Nepali": "भाडादारी बजार"
+    },
+    {
+      "English": "property",
+      "Nepali": "सम्पत्ति"
+    },
+    {
+      "English": "house/apartment",
+      "Nepali": "घर / अपाटामेन्ट"
+    },
+    {
+      "English": "garden",
+      "Nepali": "बगैँचा"
+    },
+    {
+      "English": "title deed",
+      "Nepali": "लालपुजाा"
+    },
+    {
+      "English": "design",
+      "Nepali": "ढााँचा"
+    },
+    {
+      "English": "feature",
+      "Nepali": "त्तवशेषता"
+    },
+    {
+      "English": "toilet",
+      "Nepali": "शौचालय"
+    },
+    {
+      "English": "storey",
+      "Nepali": "तला"
+    },
+    {
+      "English": "furnished",
+      "Nepali": "सुसज्जजत"
+    },
+    {
+      "English": "backyard",
+      "Nepali": "पछाडडको आाँगन"
+    },
+    {
+      "English": "bedroom",
+      "Nepali": "शयनकक्ष"
+    },
+    {
+      "English": "bathroom",
+      "Nepali": "स्नानकक्ष"
+    },
+    {
+      "English": "document",
+      "Nepali": "कागजात"
+    },
+    {
+      "English": "proof of income",
+      "Nepali": "आयको प्रमाण"
+    },
+    {
+      "English": "pay slip",
+      "Nepali": "आय पची"
+    },
+    {
+      "English": "photo ID",
+      "Nepali": "तज्स्वर पररचयपत्र"
+    },
+    {
+      "English": "passport",
+      "Nepali": "राहदानी"
+    },
+    {
+      "English": "driving license",
+      "Nepali": "सवारी चालक अनुमतत पत्र"
+    },
+    {
+      "English": "employment contract",
+      "Nepali": "रोजगारी सम्झौता"
+    },
+    {
+      "English": "personal reference",
+      "Nepali": "व्यज्ततगत भसफाररस"
+    },
+    {
+      "English": "reference number",
+      "Nepali": "सन्दभा नम्बर/सङ्ख्या"
+    },
+    {
+      "English": "residential address",
+      "Nepali": "आवासीय ठेगाना"
+    },
+    {
+      "English": "previous address",
+      "Nepali": "हालको ठेगाना"
+    },
+    {
+      "English": "current address",
+      "Nepali": "हालको ठेगाना"
+    },
+    {
+      "English": "suburb",
+      "Nepali": "उपनगर"
+    },
+    {
+      "English": "repair",
+      "Nepali": "ममात"
+    },
+    {
+      "English": "repaint",
+      "Nepali": "पुन: रंगाउनु"
+    },
+    {
+      "English": "mould",
+      "Nepali": "ढुसी"
+    },
+    {
+      "English": "peel",
+      "Nepali": "उप्कनु"
+    },
+    {
+      "English": "fade",
+      "Nepali": "फफका हुनु / खुइभलन ु"
+    },
+    {
+      "English": "register",
+      "Nepali": "दताा गनुा"
+    },
+    {
+      "English": "building inspection",
+      "Nepali": "भवन तनरीक्षण"
+    },
+    {
+      "English": "rental history",
+      "Nepali": "भाडादारी इततहास"
+    },
+    {
+      "English": "rental bond",
+      "Nepali": "भाडा धरौटी"
+    },
+    {
+      "English": "civil and administrative tribunal",
+      "Nepali": "नागररक र प्रशासतनक न्यायाधधकरण"
+    },
+    {
+      "English": "tenancy dispute",
+      "Nepali": "भाडादारी त्तववाद"
+    },
+    {
+      "English": "mortgage",
+      "Nepali": "घर कजाा"
+    },
+    {
+      "English": "ownership",
+      "Nepali": "स्वाभमत्व"
+    },
+    {
+      "English": "buyer",
+      "Nepali": "खररददार / के्रता"
+    },
+    {
+      "English": "apply",
+      "Nepali": "आवेदन ददनु"
+    },
+    {
+      "English": "application form",
+      "Nepali": "आवेदन फारम"
+    },
+    {
+      "English": "train station",
+      "Nepali": "रेल अड्डा"
+    },
+    {
+      "English": "bus station",
+      "Nepali": "बस त्तवसौनी"
+    },
+    {
+      "English": "public transport",
+      "Nepali": "सावाजतनक यातायात"
+    },
+    {
+      "English": "neighbour",
+      "Nepali": "तछमेकी"
+    },
+    {
+      "English": "neighbourhood",
+      "Nepali": "छरतछमेक"
+    },
+    {
+      "English": "amenities",
+      "Nepali": "सुत्तवधाहरू"
+    },
+    {
+      "English": "convenient",
+      "Nepali": "सुत्तवधाजनक / सज्जलो"
+    },
+    {
+      "English": "park",
+      "Nepali": "पाका"
+    },
+    {
+      "English": "sight/view",
+      "Nepali": "दृश्य"
+    },
+    {
+      "English": "spacious",
+      "Nepali": "फराफकलो"
+    },
+    {
+      "English": "weekly",
+      "Nepali": "साप्तादहक"
+    },
+    {
+      "English": "fortnightly",
+      "Nepali": "पाक्षक्षक"
+    },
+    {
+      "English": "cleaning schedule",
+      "Nepali": "सरसफाइ ताभलका"
+    },
+    {
+      "English": "shopping",
+      "Nepali": "फकनमेल"
+    },
+    {
+      "English": "bathroom leakage",
+      "Nepali": "स्नानकक्षमा पानी चुदहन ु"
+    },
+    {
+      "English": "dishwasher malfunction",
+      "Nepali": "भाडा धुने मभेसन/उकरण बबग्रन ु"
+    },
+    {
+      "English": "website",
+      "Nepali": "वेबसाइट / त्तवद्धुततय ठेगाना"
+    },
+    {
+      "English": "annual general meeting",
+      "Nepali": "वात्तषाक साधारण सभा"
+    }
+  ],
+  "HEALTH": [
+    {
+      "English": "doctor",
+      "Nepali": "चिकित्सि"
+    },
+    {
+      "English": "GP",
+      "Nepali": "सामान्य चिकित्सि"
+    },
+    {
+      "English": "dentist",
+      "Nepali": "दन्त चिकित्सि"
+    },
+    {
+      "English": "midwife",
+      "Nepali": "सुडेनी"
+    },
+    {
+      "English": "pharmacist",
+      "Nepali": "औषचि बििेता"
+    },
+    {
+      "English": "cardiologist",
+      "Nepali": "मुटुरोग विशेषज्ञ"
+    },
+    {
+      "English": "pediatrist",
+      "Nepali": "िाल रोग विशेषज्ञ"
+    },
+    {
+      "English": "health centre",
+      "Nepali": "स्िास््य िेन्र"
+    },
+    {
+      "English": "clinic",
+      "Nepali": "चिकित्सालय"
+    },
+    {
+      "English": "pharmacy",
+      "Nepali": "औषिालय / औषचि पसल"
+    },
+    {
+      "English": "treatment",
+      "Nepali": "उपिार"
+    },
+    {
+      "English": "immune system",
+      "Nepali": "रोग प्रततरोिात्मि/प्रततरक्षा प्रणाली"
+    },
+    {
+      "English": "surgery",
+      "Nepali": "शल्यकिया"
+    },
+    {
+      "English": "bandage/braces",
+      "Nepali": "पट्टी"
+    },
+    {
+      "English": "sling",
+      "Nepali": "गल पट्टी"
+    },
+    {
+      "English": "health check-up",
+      "Nepali": "स्िास््य जााँि"
+    },
+    {
+      "English": "appointment",
+      "Nepali": "भेटिाताा / स्िास््य जााँििो समय"
+    },
+    {
+      "English": "prescription",
+      "Nepali": "औषचि पिी"
+    },
+    {
+      "English": "prescribe",
+      "Nepali": "औषचि लेखिददनु"
+    },
+    {
+      "English": "organ",
+      "Nepali": "अंग"
+    },
+    {
+      "English": "tissue",
+      "Nepali": "तन्तु"
+    },
+    {
+      "English": "cell",
+      "Nepali": "िोशशिा"
+    },
+    {
+      "English": "artery",
+      "Nepali": "िमनी"
+    },
+    {
+      "English": "vein",
+      "Nepali": "नसा"
+    },
+    {
+      "English": "joint",
+      "Nepali": "जोनी"
+    },
+    {
+      "English": "lungs",
+      "Nepali": "फोक्सो"
+    },
+    {
+      "English": "thyroid",
+      "Nepali": "गलग्रन्थी"
+    },
+    {
+      "English": "kidney",
+      "Nepali": "मगृौला"
+    },
+    {
+      "English": "knee",
+      "Nepali": "घुाँडा"
+    },
+    {
+      "English": "respiratory tract/trachea",
+      "Nepali": "श्िासनली"
+    },
+    {
+      "English": "elbow",
+      "Nepali": "िुदिनो"
+    },
+    {
+      "English": "shoulder",
+      "Nepali": "िााँि"
+    },
+    {
+      "English": "ankle",
+      "Nepali": "िुिुा च्िा"
+    },
+    {
+      "English": "symptom",
+      "Nepali": "लक्षण"
+    },
+    {
+      "English": "painful",
+      "Nepali": "पीडादायि"
+    },
+    {
+      "English": "chronic pain",
+      "Nepali": "दीघािालीन दिुाइ"
+    },
+    {
+      "English": "fracture",
+      "Nepali": "िाड भााँचिनु/िकिानु"
+    },
+    {
+      "English": "sprain",
+      "Nepali": "मकिानु"
+    },
+    {
+      "English": "sharp pain",
+      "Nepali": "गदिरो दिुाइ"
+    },
+    {
+      "English": "sore throat",
+      "Nepali": "घााँटी दखुु्न"
+    },
+    {
+      "English": "runny nose",
+      "Nepali": "नाि िग्नु"
+    },
+    {
+      "English": "blocked nose",
+      "Nepali": "नाि िन्द िुनु"
+    },
+    {
+      "English": "muscle pain",
+      "Nepali": "मांसपेशी दिुाइ"
+    },
+    {
+      "English": "stiffness",
+      "Nepali": "िडापन"
+    },
+    {
+      "English": "vomiting",
+      "Nepali": "िान्ता"
+    },
+    {
+      "English": "dizziness",
+      "Nepali": "रराँगटा लाग्नु"
+    },
+    {
+      "English": "nausea",
+      "Nepali": "िाििािी"
+    },
+    {
+      "English": "numbness",
+      "Nepali": "संिेदनशीलता िराउनु"
+    },
+    {
+      "English": "pins and needles",
+      "Nepali": "झमझमाउनु / तनदाउनु"
+    },
+    {
+      "English": "rashes",
+      "Nepali": "पातिनु"
+    },
+    {
+      "English": "allergy",
+      "Nepali": "प्रततप्रभाि / एलजी"
+    },
+    {
+      "English": "hay fever",
+      "Nepali": "पराग ज्िरो"
+    },
+    {
+      "English": "inflammation",
+      "Nepali": "सुजन / सुन्न्ननु"
+    },
+    {
+      "English": "bone density",
+      "Nepali": "िाडिो घनत्ि"
+    },
+    {
+      "English": "health issue",
+      "Nepali": "स्िास््य समस्या"
+    },
+    {
+      "English": "disease",
+      "Nepali": "रोग"
+    },
+    {
+      "English": "illness",
+      "Nepali": "बिरामी"
+    },
+    {
+      "English": "injury",
+      "Nepali": "िोटपटि"
+    },
+    {
+      "English": "serious",
+      "Nepali": "गम्भीर"
+    },
+    {
+      "English": "risk",
+      "Nepali": "जोखि"
+    },
+    {
+      "English": "contagious",
+      "Nepali": "सरुिा"
+    },
+    {
+      "English": "painkiller",
+      "Nepali": "वपडानासि / दिुाइ िम गने औसचि"
+    },
+    {
+      "English": "antibiotic",
+      "Nepali": "प्रततजैविि"
+    },
+    {
+      "English": "supplement",
+      "Nepali": "पूरि"
+    },
+    {
+      "English": "side effects",
+      "Nepali": "दषु्प्प्रभाि"
+    },
+    {
+      "English": "pill/tablet",
+      "Nepali": "िक्िी / गोली"
+    },
+    {
+      "English": "syrup",
+      "Nepali": "झोल औषचि"
+    },
+    {
+      "English": "nasal spray",
+      "Nepali": "नािमा ििसाउने औषचि"
+    },
+    {
+      "English": "pollen",
+      "Nepali": "पराग"
+    },
+    {
+      "English": "relief",
+      "Nepali": "राित"
+    },
+    {
+      "English": "chemical composition",
+      "Nepali": "रासायतनि संरिना"
+    },
+    {
+      "English": "database",
+      "Nepali": "डेटाबेस"
+    },
+    {
+      "English": "recommend",
+      "Nepali": "शसफाररस गनुा"
+    },
+    {
+      "English": "blood test result",
+      "Nepali": "रक्त परीक्षणिो परिणाम"
+    },
+    {
+      "English": "blood sugar level",
+      "Nepali": "रगतमा चिनीिको मात्रा"
+    },
+    {
+      "English": "blood sugar monitor",
+      "Nepali": "रगतमा चिनी मापन गने उपकरण"
+    },
+    {
+      "English": "cholesterol",
+      "Nepali": "कोलेस्टेरोल"
+    },
+    {
+      "English": "normal range",
+      "Nepali": "सामान्य मात्रा/श्रेणी"
+    },
+    {
+      "English": "diabetes",
+      "Nepali": "मधुमेह"
+    },
+    {
+      "English": "hypertension",
+      "Nepali": "उच्च रक्तचाप"
+    },
+    {
+      "English": "arthritis",
+      "Nepali": "राि जोर्नी दुख्ने रोग / अर्थराइटिस"
+    },
+    {
+      "English": "asthma",
+      "Nepali": "दम"
+    },
+    {
+      "English": "lumbago",
+      "Nepali": "तल्लो ढाड दुखाइ"
+    },
+    {
+      "English": "balanced diet",
+      "Nepali": "सन्तुलित आहार"
+    },
+    {
+      "English": "virus",
+      "Nepali": "विषाणु"
+    },
+    {
+      "English": "bacteria",
+      "Nepali": "जीवाणु"
+    },
+    {
+      "English": "germs",
+      "Nepali": "कीटाणु"
+    },
+    {
+      "English": "precaution",
+      "Nepali": "रोधथाम"
+    },
+    {
+      "English": "spring season",
+      "Nepali": "वसन्त ऋतु"
+    },
+    {
+      "English": "bloom",
+      "Nepali": "फूल फुल्नु"
+    },
+    {
+      "English": "recover",
+      "Nepali": "ठिक हुनु"
+    },
+    {
+      "English": "mosquito repellent",
+      "Nepali": "मच्छर भगाउने मलम"
+    },
+    {
+      "English": "vaccination",
+      "Nepali": "खोप"
+    },
+    {
+      "English": "flu",
+      "Nepali": "रुघा"
+    },
+    {
+      "English": "medical certificate",
+      "Nepali": "चिकित्सकीय प्रमाणपत्र"
+    },
+    {
+      "English": "sick certificate",
+      "Nepali": "बिरामी प्रमाणपत्र"
+    },
+    {
+      "English": "regular exercise",
+      "Nepali": "नियमित व्यायाम"
+    },
+    {
+      "English": "pregnancy",
+      "Nepali": "गर्भावस्था"
+    },
+    {
+      "English": "out-patient department",
+      "Nepali": "रोगी बाहिर विभाग"
+    },
+    {
+      "English": "physiotherapist",
+      "Nepali": "फिजियोथेरापिस्ट / भौततिक चिकित्सक"
+    },
+    {
+      "English": "bottle",
+      "Nepali": "बोतल"
+    },
+    {
+      "English": "ingredient",
+      "Nepali": "तत्व"
+    },
+    {
+      "English": "mineral",
+      "Nepali": "खनिज"
+    },
+    {
+      "English": "label",
+      "Nepali": "निर्देशन लेखिएको पर्ची"
+    }
+  ],
+  "FINANCE": [
+    {
+      "English": "customer/client",
+      "Nepali": "ग्राहक / सेवाग्राही"
+    },
+    {
+      "English": "manager",
+      "Nepali": "प्रबन्धक"
+    },
+    {
+      "English": "service provider",
+      "Nepali": "वा प्रदायक"
+    },
+    {
+      "English": "employer",
+      "Nepali": "रोजगारदाता"
+    },
+    {
+      "English": "employee",
+      "Nepali": "कर्मचारी"
+    },
+    {
+      "English": "loan",
+      "Nepali": "ऋण"
+    },
+    {
+      "English": "home loan (mortgage)",
+      "Nepali": "घर कजाम"
+    },
+    {
+      "English": "interest rate",
+      "Nepali": "ब्याज दर"
+    },
+    {
+      "English": "fixed interest rate",
+      "Nepali": "निश्चित ब्याज दर"
+    },
+    {
+      "English": "standard rate",
+      "Nepali": "सामान्य दर/ब्याज दर"
+    },
+    {
+      "English": "fixed term",
+      "Nepali": "निश्चित अवधि"
+    },
+    {
+      "English": "deposit (v)",
+      "Nepali": "जम्का गर्नु"
+    },
+    {
+      "English": "deposit (n)",
+      "Nepali": "निक्षेप / जम्मा गरिएको रकम / धितो"
+    },
+    {
+      "English": "saving",
+      "Nepali": "बचत"
+    },
+    {
+      "English": "expense",
+      "Nepali": "खर्च"
+    },
+    {
+      "English": "gross income",
+      "Nepali": "कुल आय"
+    },
+    {
+      "English": "rates and expenses",
+      "Nepali": "शुल्क तथा खर्चहरू"
+    },
+    {
+      "English": "fee",
+      "Nepali": "शुल्क"
+    },
+    {
+      "English": "financial detail",
+      "Nepali": "वित्तीय विवरण"
+    },
+    {
+      "English": "installment",
+      "Nepali": "किस्ता"
+    },
+    {
+      "English": "property value",
+      "Nepali": "सम्पत्तिको मूल्य"
+    },
+    {
+      "English": "monthly",
+      "Nepali": "मासिक"
+    },
+    {
+      "English": "weekly",
+      "Nepali": "साप्ताहिक"
+    },
+    {
+      "English": "annual",
+      "Nepali": "वार्षिक"
+    },
+    {
+      "English": "terms and conditions",
+      "Nepali": "नियम तथा सर्तहरू"
+    },
+    {
+      "English": "online system",
+      "Nepali": "अनलाइन प्रणाली"
+    },
+    {
+      "English": "secure portal",
+      "Nepali": "रक्षित पोर्टल/माध्यम"
+    },
+    {
+      "English": "account detail",
+      "Nepali": "खाता विवरण"
+    },
+    {
+      "English": "normal account",
+      "Nepali": "चल्ती/साधारण खाता"
+    },
+    {
+      "English": "saving account",
+      "Nepali": "बचत खाता"
+    },
+    {
+      "English": "fixed deposit account",
+      "Nepali": "निश्चित खाता"
+    },
+    {
+      "English": "credit card",
+      "Nepali": "क्रेडिट कार्ड / ऋण पत्र"
+    },
+    {
+      "English": "cheque book",
+      "Nepali": "चेक बुक"
+    },
+    {
+      "English": "international transaction",
+      "Nepali": "अन्तर्राष्ट्रिय कारोबार"
+    },
+    {
+      "English": "bill",
+      "Nepali": "रसिद"
+    },
+    {
+      "English": "payment",
+      "Nepali": "भुक्तानी"
+    },
+    {
+      "English": "subscription service",
+      "Nepali": "सदस्यता सेवा"
+    },
+    {
+      "English": "registration",
+      "Nepali": "दर्ता"
+    },
+    {
+      "English": "direct debit",
+      "Nepali": "स्वतः भुक्तानी सेवा"
+    },
+    {
+      "English": "confirmation letter",
+      "Nepali": "पुष्टि पत्र"
+    },
+    {
+      "English": "credit history",
+      "Nepali": "क्रेडिट/ऋण इतिहास"
+    },
+    {
+      "English": "review",
+      "Nepali": "समिक्षा"
+    },
+    {
+      "English": "deposit slip",
+      "Nepali": "जम्मा/निक्षेप पर्ची"
+    },
+    {
+      "English": "money box",
+      "Nepali": "खुत्रुके"
+    },
+    {
+      "English": "retirement consultation",
+      "Nepali": "अवकाश परामर्श"
+    },
+    {
+      "English": "superannuation (super)",
+      "Nepali": "सञ्चय कोष"
+    },
+    {
+      "English": "tax file number",
+      "Nepali": "कर दाखिला सङ्ख्या"
+    },
+    {
+      "English": "tax statement",
+      "Nepali": "कर विवरण पत्र"
+    },
+    {
+      "English": "income statement",
+      "Nepali": "आय विवरण पत्र"
+    },
+    {
+      "English": "asset",
+      "Nepali": "सम्पत्ति"
+    },
+    {
+      "English": "liability",
+      "Nepali": "दायित्व"
+    },
+    {
+      "English": "dividend",
+      "Nepali": "लाभांश"
+    },
+    {
+      "English": "financial year",
+      "Nepali": "आर्थिक वर्ष"
+    },
+    {
+      "English": "tax return",
+      "Nepali": "कर दाखिला"
+    },
+    {
+      "English": "accountant",
+      "Nepali": "लेखापाल / लेखा अधिकृत"
+    },
+    {
+      "English": "profit/loss",
+      "Nepali": "नाफा/नोक्सान"
+    },
+    {
+      "English": "register",
+      "Nepali": "दर्ता गर्नु"
+    },
+    {
+      "English": "lodge",
+      "Nepali": "पेश गर्नु"
+    },
+    {
+      "English": "document",
+      "Nepali": "कागजात"
+    },
+    {
+      "English": "application",
+      "Nepali": "आवेदन"
+    },
+    {
+      "English": "bank statement",
+      "Nepali": "बैंक विवरण पत्र"
+    },
+    {
+      "English": "utility bill",
+      "Nepali": "उपयोगकर्ता/बिजुलीपानी रसिद"
+    },
+    {
+      "English": "photo ID",
+      "Nepali": "तस्बिर परिचयपत्र"
+    },
+    {
+      "English": "pay slip",
+      "Nepali": "आय पर्ची"
+    },
+    {
+      "English": "passport",
+      "Nepali": "राहदानी"
+    },
+    {
+      "English": "driver’s license",
+      "Nepali": "सवारी चालक अनुमतिपत्र"
+    },
+    {
+      "English": "taxpayer",
+      "Nepali": "करदाता"
+    },
+    {
+      "English": "revenue",
+      "Nepali": "राजस्व"
+    },
+    {
+      "English": "tax deduction",
+      "Nepali": "कर कट्टी"
+    },
+    {
+      "English": "arrears",
+      "Nepali": "बक्यौता"
+    },
+    {
+      "English": "VAT",
+      "Nepali": "मूल्य अभिवृद्धि कर"
+    },
+    {
+      "English": "GST",
+      "Nepali": "सामान्य तथा सेवा कर"
+    }
+  ],
+  "EDUCATION": [
+    {
+      "English": "school/college",
+      "Nepali": "विद्यालय"
+    },
+    {
+      "English": "university",
+      "Nepali": "विश्वविद्यालय"
+    },
+    {
+      "English": "TAFE",
+      "Nepali": "TAFE"
+    },
+    {
+      "English": "nursery",
+      "Nepali": "शिशुशाला / नर्सरी"
+    },
+    {
+      "English": "kindergarten",
+      "Nepali": "बाल विद्यालय"
+    },
+    {
+      "English": "primary school",
+      "Nepali": "प्राथमिक विद्यालय"
+    },
+    {
+      "English": "secondary school",
+      "Nepali": "माध्यमिक विद्यालय"
+    },
+    {
+      "English": "higher secondary",
+      "Nepali": "उच्च माध्यमिक विद्यालय"
+    },
+    {
+      "English": "childcare centre",
+      "Nepali": "बाल स्याहार केन्द्र"
+    },
+    {
+      "English": "daycare centre",
+      "Nepali": "दिन स्याहार केन्द्र"
+    },
+    {
+      "English": "afterschool care centre",
+      "Nepali": "विद्यालयपछिको स्याहार केन्द्र"
+    },
+    {
+      "English": "bachelor",
+      "Nepali": "स्नातक"
+    },
+    {
+      "English": "master",
+      "Nepali": "स्नातकोत्तर"
+    },
+    {
+      "English": "principal",
+      "Nepali": "प्रधानाध्यापक"
+    },
+    {
+      "English": "director",
+      "Nepali": "निर्देशक"
+    },
+    {
+      "English": "lecturer",
+      "Nepali": "प्राध्यापक"
+    },
+    {
+      "English": "student support services",
+      "Nepali": "विद्यार्थी सहायता सेवा"
+    },
+    {
+      "English": "student support officer",
+      "Nepali": "विद्यार्थी सहायता अधिकृत"
+    },
+    {
+      "English": "parent",
+      "Nepali": "अभिभावक"
+    },
+    {
+      "English": "international student",
+      "Nepali": "अन्तर्राष्ट्रिय विद्यार्थी"
+    },
+    {
+      "English": "teacher-parent meeting",
+      "Nepali": "शिक्षक अभिभावक बैठक"
+    },
+    {
+      "English": "interview",
+      "Nepali": "अन्तर्वार्ता"
+    },
+    {
+      "English": "appointment",
+      "Nepali": "भेटवार्ता"
+    },
+    {
+      "English": "discipline",
+      "Nepali": "अनुशासन"
+    },
+    {
+      "English": "homework",
+      "Nepali": "गृहकार्य"
+    },
+    {
+      "English": "project",
+      "Nepali": "परियोजना"
+    },
+    {
+      "English": "presentation",
+      "Nepali": "प्रस्तुति"
+    },
+    {
+      "English": "activity",
+      "Nepali": "क्रियाकलाप"
+    },
+    {
+      "English": "participate",
+      "Nepali": "भाग लिनु"
+    },
+    {
+      "English": "mathematics",
+      "Nepali": "गणित"
+    },
+    {
+      "English": "accounting",
+      "Nepali": "लेखा / लेखाशास्त्र"
+    },
+    {
+      "English": "language skills",
+      "Nepali": "भाषा दक्षता"
+    },
+    {
+      "English": "challenging",
+      "Nepali": "चुनौतीपूर्ण"
+    },
+    {
+      "English": "music department",
+      "Nepali": "संगीत विभाग"
+    },
+    {
+      "English": "musical instrument",
+      "Nepali": "बाजा / संगीत उपकरण"
+    },
+    {
+      "English": "practice session",
+      "Nepali": "अभ्यास सत्र"
+    },
+    {
+      "English": "semester",
+      "Nepali": "अर्धवार्षिक अवधिअ"
+    },
+    {
+      "English": "proficient",
+      "Nepali": "सिपालु / कुशल"
+    },
+    {
+      "English": "flute",
+      "Nepali": "बाँसुरी"
+    },
+    {
+      "English": "fee",
+      "Nepali": "शुल्क"
+    },
+    {
+      "English": "extracurricular",
+      "Nepali": "अतिरिक्त क्रियाकलाप"
+    },
+    {
+      "English": "register",
+      "Nepali": "दर्ता गर्नुहोस्"
+    },
+    {
+      "English": "enroll",
+      "Nepali": "भर्ना गर्नुहोस्"
+    },
+    {
+      "English": "uniform",
+      "Nepali": "पोशाक"
+    },
+    {
+      "English": "in charge",
+      "Nepali": "प्रमुख"
+    },
+    {
+      "English": "guidebook",
+      "Nepali": "मार्गदर्शन पुस्तकिका"
+    },
+    {
+      "English": "adult migrant English program",
+      "Nepali": "वयस्क आप्रवासी अङ्ग्रेजी कार्यक्रम"
+    },
+    {
+      "English": "age group",
+      "Nepali": "उमेर समूह"
+    },
+    {
+      "English": "safety",
+      "Nepali": "सुरक्षा"
+    },
+    {
+      "English": "instruction",
+      "Nepali": "निर्देशन"
+    },
+    {
+      "English": "consultation",
+      "Nepali": "परामर्श"
+    },
+    {
+      "English": "recommend",
+      "Nepali": "सिफारिस गर्नुहोस्"
+    },
+    {
+      "English": "administration",
+      "Nepali": "प्रशासन"
+    },
+    {
+      "English": "sponsor",
+      "Nepali": "प्रायोजक"
+    },
+    {
+      "English": "notice board",
+      "Nepali": "सूचना पाटी"
+    },
+    {
+      "English": "applicant",
+      "Nepali": "आवेदक"
+    },
+    {
+      "English": "language, literacy, and numeracy test (LLN)",
+      "Nepali": "भाषा, साक्षरता, तथा गणित परीक्षा"
+    },
+    {
+      "English": "pass",
+      "Nepali": "उत्तीर्ण"
+    },
+    {
+      "English": "fail",
+      "Nepali": "अनुत्तीर्ण / असफल"
+    },
+    {
+      "English": "academic certificate",
+      "Nepali": "शैक्षिक प्रमाणपत्र"
+    },
+    {
+      "English": "tuition fee",
+      "Nepali": "शिक्षा शुल्क"
+    },
+    {
+      "English": "Department of Education",
+      "Nepali": "शिक्षा विभाग"
+    },
+    {
+      "English": "due date",
+      "Nepali": "अन्तिम म्याद / म्याद"
+    },
+    {
+      "English": "graduate",
+      "Nepali": "स्नातक हुनु / पढाई पूरा गर्नुहोस्"
+    },
+    {
+      "English": "graduation ceremony",
+      "Nepali": "दीक्षान्त समारोह"
+    },
+    {
+      "English": "course prospectus",
+      "Nepali": "पाठ्यक्रम विवरण पुस्तकिका"
+    },
+    {
+      "English": "qualification",
+      "Nepali": "योग्यता"
+    },
+    {
+      "English": "attendance rate",
+      "Nepali": "उपस्थित दर"
+    },
+    {
+      "English": "Headlice outbreak",
+      "Nepali": "जुम्राको प्रकोप"
+    },
+    {
+      "English": "assess",
+      "Nepali": "मूल्याङ्कन गर्नुहोस्"
+    },
+    {
+      "English": "disappointing",
+      "Nepali": "निराशाजनक"
+    },
+    {
+      "English": "personal item",
+      "Nepali": "व्यक्तिगत वस्तु"
+    },
+    {
+      "English": "re-infestation",
+      "Nepali": "पुनः संक्रमण"
+    },
+    {
+      "English": "health department",
+      "Nepali": "स्वास्थ्य विभाग"
+    },
+    {
+      "English": "monitor",
+      "Nepali": "अनुगमन / निगरानी"
+    }
+  ],
+  "CONSUMER_AFFAIRS": [
+    {
+      "English": "consumer affairs",
+      "Nepali": "उपभोक्ता मामिला"
+    },
+    {
+      "English": "customer",
+      "Nepali": "ग्राहक"
+    },
+    {
+      "English": "client",
+      "Nepali": "सेवाग्राही"
+    },
+    {
+      "English": "service provider",
+      "Nepali": "सेवा प्रदायक"
+    },
+    {
+      "English": "officer",
+      "Nepali": "अधिकृत"
+    },
+    {
+      "English": "seller",
+      "Nepali": "बिक्रेता"
+    },
+    {
+      "English": "buyer",
+      "Nepali": "खरिददार"
+    },
+    {
+      "English": "file a complaint",
+      "Nepali": "गुनासो दाखिला गर्नुहोस्"
+    },
+    {
+      "English": "finance support team",
+      "Nepali": "वित्तीय सहायता टोली"
+    },
+    {
+      "English": "ACCC",
+      "Nepali": "अस्ट्रेलियन प्रतिस्पर्धा तथा उपभोक्ता आयोग"
+    },
+    {
+      "English": "consumer law",
+      "Nepali": "उपभोक्ता कानुन"
+    },
+    {
+      "English": "breach of law",
+      "Nepali": "कानुनको उल्लङ्घन"
+    },
+    {
+      "English": "proof of purchase",
+      "Nepali": "खरिदको प्रमाण"
+    },
+    {
+      "English": "lodge",
+      "Nepali": "दाखिला गर्नुहोस्"
+    },
+    {
+      "English": "formal",
+      "Nepali": "औपचारिक"
+    },
+    {
+      "English": "discount",
+      "Nepali": "छुट"
+    },
+    {
+      "English": "affordable",
+      "Nepali": "किफायती"
+    },
+    {
+      "English": "issue",
+      "Nepali": "समस्या / मुद्दा / मामिला"
+    },
+    {
+      "English": "misunderstanding",
+      "Nepali": "गलत बुझाइ"
+    },
+    {
+      "English": "identify",
+      "Nepali": "पहिचान गर्नुहोस्"
+    },
+    {
+      "English": "loan",
+      "Nepali": "ऋण"
+    },
+    {
+      "English": "document",
+      "Nepali": "कागजात"
+    },
+    {
+      "English": "contract paper",
+      "Nepali": "करार पत्र"
+    },
+    {
+      "English": "contract terms",
+      "Nepali": "करारका सर्तहरू"
+    },
+    {
+      "English": "agreement",
+      "Nepali": "सम्झौता / सहमति"
+    },
+    {
+      "English": "sign",
+      "Nepali": "हस्ताक्षर गर्नुहोस्"
+    },
+    {
+      "English": "bill/receipt",
+      "Nepali": "रसिद"
+    },
+    {
+      "English": "payment",
+      "Nepali": "भुक्तानी"
+    },
+    {
+      "English": "installment",
+      "Nepali": "किस्ता"
+    },
+    {
+      "English": "guarantee",
+      "Nepali": "प्रत्याभूति"
+    },
+    {
+      "English": "warrantee",
+      "Nepali": ""
+    },
+    {
+      "English": "replacement",
+      "Nepali": "प्रतिस्थापन / साट्नु"
+    },
+    {
+      "English": "repair",
+      "Nepali": "मर्मत"
+    },
+    {
+      "English": "refund",
+      "Nepali": "फिर्ता गर्नुहोस्"
+    },
+    {
+      "English": "damage",
+      "Nepali": "क्षति"
+    },
+    {
+      "English": "record",
+      "Nepali": "अभिलेख"
+    },
+    {
+      "English": "investigation",
+      "Nepali": "छानबिन/खोजतलास गर्नुहोस्"
+    },
+    {
+      "English": "penalty",
+      "Nepali": "दण्ड"
+    },
+    {
+      "English": "fine",
+      "Nepali": "जरिवाना"
+    },
+    {
+      "English": "regulation",
+      "Nepali": "नियम"
+    },
+    {
+      "English": "official",
+      "Nepali": "आधिकारिक"
+    },
+    {
+      "English": "computer store",
+      "Nepali": "कम्प्युटर/सूचना प्रविधि पसल"
+    },
+    {
+      "English": "product",
+      "Nepali": "उत्पादन / सामान"
+    },
+    {
+      "English": "menu",
+      "Nepali": "व्यञ्जन सूची"
+    },
+    {
+      "English": "soup",
+      "Nepali": "झोल"
+    },
+    {
+      "English": "manager",
+      "Nepali": "प्रबन्धक / व्यवस्थापक"
+    },
+    {
+      "English": "waiter",
+      "Nepali": "खाद्य परिचारक"
+    },
+    {
+      "English": "sales representative",
+      "Nepali": "बिक्री प्रतिनिधि"
+    },
+    {
+      "English": "scheme",
+      "Nepali": "योजना"
+    },
+    {
+      "English": "electricity",
+      "Nepali": "बिजुली"
+    },
+    {
+      "English": "university",
+      "Nepali": "विश्वविद्यालय"
+    },
+    {
+      "English": "experience",
+      "Nepali": "अनुभव"
+    },
+    {
+      "English": "disappointment",
+      "Nepali": "निराशा"
+    },
+    {
+      "English": "update",
+      "Nepali": "अद्यावधिक"
+    },
+    {
+      "English": "option",
+      "Nepali": "विकल्प"
+    },
+    {
+      "English": "discuss",
+      "Nepali": "छलफल/चर्चा गर्नुहोस्"
+    },
+    {
+      "English": "confident",
+      "Nepali": "विश्वस्त"
+    },
+    {
+      "English": "reasonable price",
+      "Nepali": "उचित मूल्य"
+    },
+    {
+      "English": "unlimited plan",
+      "Nepali": "असीमित योजना"
+    },
+    {
+      "English": "nephew",
+      "Nepali": "भतिज"
+    },
+    {
+      "English": "technology",
+      "Nepali": "प्रविधि"
+    },
+    {
+      "English": "hesitate",
+      "Nepali": "हिच्किचाउनु"
+    },
+    {
+      "English": "latest model",
+      "Nepali": "नवीनतम नमुना"
+    },
+    {
+      "English": "decision",
+      "Nepali": "निर्णय"
+    },
+    {
+      "English": "booklet",
+      "Nepali": "पुस्तिका"
+    },
+    {
+      "English": "delivery fee",
+      "Nepali": "वितरण शुल्क"
+    },
+    {
+      "English": "free",
+      "Nepali": "निशुल्क"
+    },
+    {
+      "English": "sincere apology",
+      "Nepali": "विनम्र क्षमा"
+    },
+    {
+      "English": "assure",
+      "Nepali": "सुनिश्चित गर्नुहोस्"
+    },
+    {
+      "English": "courtesy",
+      "Nepali": "शिष्टाचार"
+    },
+    {
+      "English": "down payment",
+      "Nepali": "अग्रिम भुक्तानी"
+    },
+    {
+      "English": "front office manager",
+      "Nepali": "प्रमुख आगन्तुक स्वागतकर्ता"
+    },
+    {
+      "English": "receptionist",
+      "Nepali": "आगन्तुक स्वागतकर्ता"
+    },
+    {
+      "English": "confirmation letter",
+      "Nepali": "सम्पुष्टि पत्र / पक्कापक्की पत्र"
+    },
+    {
+      "English": "upgrade",
+      "Nepali": "सुधारोन्नति"
+    },
+    {
+      "English": "extra charge",
+      "Nepali": "थप शुल्क"
+    },
+    {
+      "English": "remedy",
+      "Nepali": "समाधान / उपाय"
+    },
+    {
+      "English": "retailer",
+      "Nepali": "खुद्रा बिक्रेता"
+    },
+    {
+      "English": "entitled",
+      "Nepali": "हकदार"
+    },
+    {
+      "English": "meet the standard",
+      "Nepali": "मापदण्ड पूरा गर्नुहोस्"
+    },
+    {
+      "English": "guidance",
+      "Nepali": "मार्गदर्शन / सहायता"
+    },
+    {
+      "English": "dispute resolution",
+      "Nepali": "विवाद समाधान"
+    },
+    {
+      "English": "mediation/arbitration",
+      "Nepali": "मध्यस्थता"
+    },
+    {
+      "English": "tribunal",
+      "Nepali": "न्यायाधिकरण"
+    },
+    {
+      "English": "legal advice",
+      "Nepali": "कानूनी सल्लाह"
+    },
+    {
+      "English": "quality",
+      "Nepali": "गुणस्तर"
+    },
+    {
+      "English": "defect",
+      "Nepali": "खोट"
+    },
+    {
+      "English": "mislead",
+      "Nepali": "भ्रामक"
+    },
+    {
+      "English": "rights and responsibility",
+      "Nepali": "अधिकार तथा जिम्मेवारी"
+    },
+    {
+      "English": "basic right",
+      "Nepali": "आधारभूत अधिकार"
+    },
+    {
+      "English": "compliance",
+      "Nepali": "पालना / नियम कानुन / अनुपालन"
+    },
+    {
+      "English": "policy",
+      "Nepali": "नीति"
+    },
+    {
+      "English": "comply",
+      "Nepali": "पालना गर्नुहोस्"
+    },
+    {
+      "English": "compensation",
+      "Nepali": "क्षतिपूर्ति"
+    },
+    {
+      "English": "manufacturer",
+      "Nepali": "निर्माता"
+    }
+  ],
   "Community": [
-    {"English": "Community", "Nepali": "समुदाय"},
-    {"English": "Neighborhood", "Nepali": "छिमेक"},
-    {"English": "Volunteer", "Nepali": "स्वयंसेवक"},
-    {"English": "Festival", "Nepali": "चाडपर्व"},
-    {"English": "Event", "Nepali": "कार्यक्रम"},
-    {"English": "Charity", "Nepali": "दान"},
-    {"English": "Hall", "Nepali": "हल"},
-    {"English": "Meeting", "Nepali": "बैठक"},
-    {"English": "Support group", "Nepali": "सहयोग समूह"},
-    {"English": "Member", "Nepali": "सदस्य"},
-    {"English": "Fundraiser", "Nepali": "चन्दा संकलन कार्यक्रम"},
-    {"English": "Program", "Nepali": "कार्यक्रम"},
-    {"English": "Council", "Nepali": "परिषद"},
-    {"English": "Mayor", "Nepali": "मेयर"},
-    {"English": "Resident", "Nepali": "बासिन्दा"},
-    {"English": "Inclusion", "Nepali": "समावेश"},
-    {"English": "Diversity", "Nepali": "विविधता"},
-    {"English": "Culture", "Nepali": "संस्कृति"},
-    {"English": "Tradition", "Nepali": "परम्परा"},
-    {"English": "Safety", "Nepali": "सुरक्षा"},
-    {"English": "Environment", "Nepali": "वातावरण"},
-    {"English": "Gathering", "Nepali": "भेला"},
-    {"English": "Workshop", "Nepali": "कार्यशाला"},
-    {"English": "Survey", "Nepali": "सर्वेक्षण"},
-    {"English": "Welfare", "Nepali": "कल्याण"},
-    {"English": "Activity", "Nepali": "गतिविधि"},
-    {"English": "Club", "Nepali": "क्लब"},
-    {"English": "Announcement", "Nepali": "सूचना"},
-    {"English": "Agenda", "Nepali": "कार्यसूची"},
-    {"English": "Leadership", "Nepali": "नेतृत्व"},
-    {"English": "Registration", "Nepali": "दर्ता"},
-    {"English": "Social worker", "Nepali": "सामाजिक कार्यकर्ता"},
-    {"English": "Heritage", "Nepali": "सम्पदा"},
-    {"English": "Complaint", "Nepali": "उजुरी"},
-    {"English": "Assistance", "Nepali": "सहायता"},
-    {"English": "Interpreter", "Nepali": "दुभाषे"},
-    {"English": "Outreach", "Nepali": "पहुँच"},
-    {"English": "Discrimination", "Nepali": "विभेद"},
-    {"English": "Public space", "Nepali": "सार्वजनिक स्थान"},
-    {"English": "Playground", "Nepali": "खेल मैदान"},
-    {"English": "Elderly", "Nepali": "ज्येष्ठ नागरिक"},
-    {"English": "Youth", "Nepali": "युवा"},
-    {"English": "Childcare", "Nepali": "बाल हेरचाह"},
-    {"English": "Celebration", "Nepali": "उत्सव"},
-    {"English": "Petition", "Nepali": "निवेदन"},
-    {"English": "Cooperation", "Nepali": "सहकार्य"},
-    {"English": "Harmony", "Nepali": "मेलमिलाप"},
-    {"English": "Relocation", "Nepali": "स्थानान्तरण"}
+    {
+      "English": "active",
+      "Nepali": "सक्रिय / क्रियाशील"
+    },
+    {
+      "English": "addiction",
+      "Nepali": "लत / कुलत"
+    },
+    {
+      "English": "administration",
+      "Nepali": "प्रशासन"
+    },
+    {
+      "English": "adopt",
+      "Nepali": "ग्रहण गर्नु / अपनाउनु"
+    },
+    {
+      "English": "adult",
+      "Nepali": "वयस्क"
+    },
+    {
+      "English": "all the best",
+      "Nepali": "शुभकामना"
+    },
+    {
+      "English": "animal shelter",
+      "Nepali": "जनावर आश्रय केन्द्र"
+    },
+    {
+      "English": "application form",
+      "Nepali": "आवेदन फारम"
+    },
+    {
+      "English": "appreciate",
+      "Nepali": "सराहना गर्नु"
+    },
+    {
+      "English": "area",
+      "Nepali": "क्षेत्र"
+    },
+    {
+      "English": "attitude",
+      "Nepali": "दृष्टिकोण / मनोवृत्ति"
+    },
+    {
+      "English": "Australian",
+      "Nepali": "अस्ट्रेलियाली"
+    },
+    {
+      "English": "autumn season",
+      "Nepali": "शरद ऋतु"
+    },
+    {
+      "English": "available",
+      "Nepali": "उपलब्ध"
+    },
+    {
+      "English": "bait",
+      "Nepali": "चारा"
+    },
+    {
+      "English": "beginner",
+      "Nepali": "सुरुवाती / नवसिखिया"
+    },
+    {
+      "English": "book an appointment",
+      "Nepali": "भेटवार्ता तय गर्नु"
+    },
+    {
+      "English": "boss",
+      "Nepali": "हाकिम"
+    },
+    {
+      "English": "box size",
+      "Nepali": "बट्टाको / बक्साको आकार"
+    },
+    {
+      "English": "bus stop",
+      "Nepali": "बस बिसौनी"
+    },
+    {
+      "English": "busy",
+      "Nepali": "व्यस्त"
+    },
+    {
+      "English": "cancel",
+      "Nepali": "रद्द गर्नु"
+    },
+    {
+      "English": "captain",
+      "Nepali": "कप्तान"
+    },
+    {
+      "English": "case settlement",
+      "Nepali": "मुद्दा छिनोफानो / मेलमिलाप"
+    },
+    {
+      "English": "cash",
+      "Nepali": "नगद"
+    },
+    {
+      "English": "challenging",
+      "Nepali": "चुनौतीपूर्ण"
+    },
+    {
+      "English": "circumference",
+      "Nepali": "परिधि"
+    },
+    {
+      "English": "claim",
+      "Nepali": "दाबी गर्नु"
+    },
+    {
+      "English": "cleaning program",
+      "Nepali": "सरसफाई कार्यक्रम"
+    },
+    {
+      "English": "coastguard",
+      "Nepali": "तट रक्षक"
+    },
+    {
+      "English": "community",
+      "Nepali": "समुदाय"
+    },
+    {
+      "English": "complaint",
+      "Nepali": "गुनासो"
+    },
+    {
+      "English": "confidential",
+      "Nepali": "गोप्य"
+    },
+    {
+      "English": "confused",
+      "Nepali": "अलमलमा पर्नु"
+    },
+    {
+      "English": "constable",
+      "Nepali": "प्रहरी जवान / प्रहरी हवल्दार"
+    },
+    {
+      "English": "contact number",
+      "Nepali": "सम्पर्क नम्बर"
+    },
+    {
+      "English": "contract",
+      "Nepali": "करार"
+    },
+    {
+      "English": "contribute",
+      "Nepali": "योगदान दिनु"
+    },
+    {
+      "English": "convince",
+      "Nepali": "विश्वास दिलाउनु / मनाउनु"
+    },
+    {
+      "English": "council office",
+      "Nepali": "नगर/परिषद कार्यालय"
+    },
+    {
+      "English": "counsellor",
+      "Nepali": "परामर्शदाता"
+    },
+    {
+      "English": "craving",
+      "Nepali": "तलतल लाग्नु"
+    },
+    {
+      "English": "crisis",
+      "Nepali": "संकट / आपतकाल"
+    },
+    {
+      "English": "customer service",
+      "Nepali": "ग्राहक सेवा"
+    },
+    {
+      "English": "damage",
+      "Nepali": "क्षति"
+    },
+    {
+      "English": "dangerous",
+      "Nepali": "खतरनाक / जोखिमपूर्ण"
+    },
+    {
+      "English": "dealer",
+      "Nepali": "बिक्रेता / व्यापारी"
+    },
+    {
+      "English": "delivery address",
+      "Nepali": "गन्तव्य ठेगाना"
+    },
+    {
+      "English": "density",
+      "Nepali": "घनत्व"
+    },
+    {
+      "English": "directory",
+      "Nepali": "निर्देशिका"
+    }
   ],
-  "Immigration_Settlement": [
-    {"English": "Immigration", "Nepali": "आप्रवासन"},
-    {"English": "Visa", "Nepali": "भिसा"},
-    {"English": "Passport", "Nepali": "राहदानी"},
-    {"English": "Border", "Nepali": "सिमाना"},
-    {"English": "Citizenship", "Nepali": "नागरिकता"},
-    {"English": "Migrant", "Nepali": "आप्रवासी"},
-    {"English": "Refugee", "Nepali": "शरणार्थी"},
-    {"English": "Asylum seeker", "Nepali": "शरण खोज्ने"},
-    {"English": "Sponsor", "Nepali": "प्रायोजक"},
-    {"English": "Immigration officer", "Nepali": "आप्रवासन अधिकृत"},
-    {"English": "Interview", "Nepali": "अन्तर्वार्ता"},
-    {"English": "Document", "Nepali": "कागजात"},
-    {"English": "Identity", "Nepali": "परिचय"},
-    {"English": "Proof", "Nepali": "प्रमाण"},
-    {"English": "Permit", "Nepali": "अनुमति पत्र"},
-    {"English": "Temporary", "Nepali": "अस्थायी"},
-    {"English": "Permanent", "Nepali": "स्थायी"},
-    {"English": "Settlement", "Nepali": "बसोबास"},
-    {"English": "Language barrier", "Nepali": "भाषागत अवरोध"},
-    {"English": "Application", "Nepali": "आवेदन"},
-    {"English": "Fee", "Nepali": "शुल्क"},
-    {"English": "Process", "Nepali": "प्रक्रिया"},
-    {"English": "Migration agent", "Nepali": "आप्रवासन एजेन्ट"},
-    {"English": "Family reunion", "Nepali": "पारिवारिक पुनर्मिलन"},
-    {"English": "Residence", "Nepali": "बसोबास स्थान"},
-    {"English": "Bridging visa", "Nepali": "पुल भिसा"},
-    {"English": "Work visa", "Nepali": "श्रम भिसा"},
-    {"English": "Student visa", "Nepali": "विद्यार्थी भिसा"},
-    {"English": "PR", "Nepali": "स्थायी बसोबास"},
-    {"English": "Immigration law", "Nepali": "आप्रवासन कानुन"},
-    {"English": "Integration", "Nepali": "समावेशीकरण"},
-    {"English": "Support service", "Nepali": "सहयोग सेवा"},
-    {"English": "Entry", "Nepali": "प्रवेश"},
-    {"English": "Exit", "Nepali": "निर्गमन"},
-    {"English": "Detention center", "Nepali": "बंदी शिविर"},
-    {"English": "Visa conditions", "Nepali": "भिसा सर्तहरु"},
-    {"English": "Proof of address", "Nepali": "ठेगानाको प्रमाण"},
-    {"English": "Biometric", "Nepali": "जैविक विवरण"},
-    {"English": "Interpreter", "Nepali": "अनुवादक"},
-    {"English": "Translation", "Nepali": "अनुवाद"},
-    {"English": "Language test", "Nepali": "भाषा परीक्षा"},
-    {"English": "Sponsor letter", "Nepali": "प्रायोजन पत्र"},
-    {"English": "Approval", "Nepali": "स्वीकृति"},
-    {"English": "Rejection", "Nepali": "अस्वीकृति"},
-    {"English": "Immigration status", "Nepali": "आप्रवासन स्थिति"},
-    {"English": "Appeal", "Nepali": "अपील"},
-    {"English": "Home affairs", "Nepali": "गृह मामिला"},
-    {"English": "Department", "Nepali": "विभाग"}
-  ],
-  "Education": [
-    {"English": "School", "Nepali": "विद्यालय"},
-    {"English": "Student", "Nepali": "विद्यार्थी"},
-    {"English": "Teacher", "Nepali": "शिक्षक"},
-    {"English": "Class", "Nepali": "कक्षा"},
-    {"English": "Subject", "Nepali": "विषय"},
-    {"English": "Exam", "Nepali": "परीक्षा"},
-    {"English": "Result", "Nepali": "नतिजा"},
-    {"English": "Certificate", "Nepali": "प्रमाणपत्र"},
-    {"English": "Report", "Nepali": "प्रतिवेदन"},
-    {"English": "Homework", "Nepali": "गृहकार्य"},
-    {"English": "Library", "Nepali": "पुस्तकालय"},
-    {"English": "College", "Nepali": "कलेज"},
-    {"English": "University", "Nepali": "विश्वविद्यालय"},
-    {"English": "Degree", "Nepali": "डिग्री"},
-    {"English": "Attendance", "Nepali": "उपस्थित"},
-    {"English": "Absence", "Nepali": "अनुपस्थित"},
-    {"English": "Course", "Nepali": "पाठ्यक्रम"},
-    {"English": "Tuition", "Nepali": "शुल्क"},
-    {"English": "Scholarship", "Nepali": "छात्रवृत्ति"},
-    {"English": "Registration", "Nepali": "दर्ता"},
-    {"English": "Admission", "Nepali": "भर्ना"},
-    {"English": "Principal", "Nepali": "प्रधानाध्यापक"},
-    {"English": "Lecturer", "Nepali": "व्याख्याता"},
-    {"English": "Classmate", "Nepali": "सहपाठी"},
-    {"English": "Campus", "Nepali": "क्याम्पस"},
-    {"English": "Assessment", "Nepali": "मुल्याङ्कन"},
-    {"English": "Graduation", "Nepali": "स्नातक समारोह"},
-    {"English": "Backpack", "Nepali": "झोला"},
-    {"English": "Pen", "Nepali": "कलम"},
-    {"English": "Notebook", "Nepali": "नोटबुक"},
-    {"English": "Discipline", "Nepali": "अनुशासन"},
-    {"English": "Curriculum", "Nepali": "पाठ्यक्रम"},
-    {"English": "Parent-teacher meeting", "Nepali": "अभिभावक-शिक्षक बैठक"},
-    {"English": "Blackboard", "Nepali": "कालोपाटी"},
-    {"English": "Exam hall", "Nepali": "परीक्षा हल"},
-    {"English": "Textbook", "Nepali": "पाठ्यपुस्तक"},
-    {"English": "Dropout", "Nepali": "पढाइ छोड्ने"},
-    {"English": "Enrollment", "Nepali": "दर्ता"},
-    {"English": "Fee waiver", "Nepali": "शुल्क माफी"},
-    {"English": "Lab", "Nepali": "प्रयोगशाला"},
-    {"English": "Internship", "Nepali": "प्रशिक्षण"},
-    {"English": "Mentor", "Nepali": "मार्गदर्शक"},
-    {"English": "Examiner", "Nepali": "परीक्षक"},
-    {"English": "Diploma", "Nepali": "डिप्लोमा"},
-    {"English": "Lecture hall", "Nepali": "व्याख्यान कक्ष"},
-    {"English": "Thesis", "Nepali": "थेसिस"},
-    {"English": "Enrollment form", "Nepali": "दर्ता फारम"},
-    {"English": "Assignment", "Nepali": "काम"},
-    {"English": "Tutoring", "Nepali": "शिक्षण"},
-    {"English": "Extracurricular", "Nepali": "पाठ्यक्रम बाहिरको गतिविधि"}
-  ],
-  "Health": [
-    {"English": "Doctor", "Nepali": "डाक्टर"},
-    {"English": "Nurse", "Nepali": "नर्स"},
-    {"English": "Hospital", "Nepali": "अस्पताल"},
-    {"English": "Clinic", "Nepali": "क्लिनिक"},
-    {"English": "Medicine", "Nepali": "औषधि"},
-    {"English": "Prescription", "Nepali": "प्रिस्क्रिप्सन"},
-    {"English": "Appointment", "Nepali": "अपोइन्टमेन्ट"},
-    {"English": "Emergency", "Nepali": "आपतकालीन"},
-    {"English": "Checkup", "Nepali": "जाँच"},
-    {"English": "Vaccination", "Nepali": "खोप"},
-    {"English": "Surgery", "Nepali": "शल्यक्रिया"},
-    {"English": "Therapy", "Nepali": "उपचार"},
-    {"English": "Symptom", "Nepali": "लक्षण"},
-    {"English": "Diagnosis", "Nepali": "निदान"},
-    {"English": "Treatment", "Nepali": "उपचार"},
-    {"English": "Pain", "Nepali": "पीडा"},
-    {"English": "Injury", "Nepali": "घाइते"},
-    {"English": "Recovery", "Nepali": "स्वास्थ्य लाभ"},
-    {"English": "Health insurance", "Nepali": "स्वास्थ्य बीमा"},
-    {"English": "Pharmacy", "Nepali": "फार्मेसी"},
-    {"English": "Blood pressure", "Nepali": "रक्तचाप"},
-    {"English": "Heart rate", "Nepali": "हृदय गति"},
-    {"English": "Allergy", "Nepali": "एलर्जी"},
-    {"English": "Chronic", "Nepali": "दीर्घकालीन"},
-    {"English": "Infection", "Nepali": "संक्रमण"},
-    {"English": "Diagnosis", "Nepali": "निदान"},
-    {"English": "X-ray", "Nepali": "एक्स-रे"},
-    {"English": "Scan", "Nepali": "स्क्यान"},
-    {"English": "Blood test", "Nepali": "रक्त परीक्षण"},
-    {"English": "Diet", "Nepali": "आहार"},
-    {"English": "Exercise", "Nepali": "व्यायाम"},
-    {"English": "Mental health", "Nepali": "मानसिक स्वास्थ्य"},
-    {"English": "Depression", "Nepali": "डिप्रेसन"},
-    {"English": "Anxiety", "Nepali": "चिन्ता"},
-    {"English": "Stress", "Nepali": "तनाव"},
-    {"English": "Nutrition", "Nepali": "पोषण"},
-    {"English": "Vaccination", "Nepali": "खोप"},
-    {"English": "Dentist", "Nepali": "दन्त चिकित्सक"},
-    {"English": "Optometrist", "Nepali": "नेत्र चिकित्सक"},
-    {"English": "Physical therapy", "Nepali": "शारीरिक उपचार"},
-    {"English": "Pregnancy", "Nepali": "गर्भावस्था"},
-    {"English": "Childbirth", "Nepali": "शिशु जन्म"},
-    {"English": "Painkiller", "Nepali": "दर्द निवारक"},
-    {"English": "Hospitalization", "Nepali": "अस्पताल भर्ना"},
-    {"English": "Consultation", "Nepali": "परामर्श"},
-    {"English": "Ambulance", "Nepali": "एम्बुलेन्स"},
-    {"English": "ICU", "Nepali": "आइसियु"},
-    {"English": "Discharge", "Nepali": "छुट्टी"},
-    {"English": "Recovery", "Nepali": "सुधार"},
-    {"English": "First aid", "Nepali": "प्राथमिक उपचार"},
-    {"English": "Blood donation", "Nepali": "रक्तदान"}
-  ],
-  "Legal": [
-    {"English": "Lawyer", "Nepali": "वकिल"},
-    {"English": "Court", "Nepali": "अदालत"},
-    {"English": "Judge", "Nepali": "न्यायधीश"},
-    {"English": "Trial", "Nepali": "मुद्धा"},
-    {"English": "Crime", "Nepali": "अपराध"},
-    {"English": "Police", "Nepali": "प्रहरी"},
-    {"English": "Arrest", "Nepali": "गिरफ्तारी"},
-    {"English": "Charge", "Nepali": "अभियोग"},
-    {"English": "Evidence", "Nepali": "सबूत"},
-    {"English": "Witness", "Nepali": "साक्षी"},
-    {"English": "Jail", "Nepali": "कारागार"},
-    {"English": "Sentence", "Nepali": "दण्ड"},
-    {"English": "Law", "Nepali": "कानुन"},
-    {"English": "Contract", "Nepali": "सम्झौता"},
-    {"English": "Agreement", "Nepali": "सम्झौता"},
-    {"English": "Rights", "Nepali": "अधिकार"},
-    {"English": "Duty", "Nepali": "कर्तव्य"},
-    {"English": "Legal aid", "Nepali": "कानुनी सहायता"},
-    {"English": "Dispute", "Nepali": "विवाद"},
-    {"English": "Appeal", "Nepali": "अपील"},
-    {"English": "Settlement", "Nepali": "सम्झौता"},
-    {"English": "Notary", "Nepali": "नोटरी"},
-    {"English": "Law firm", "Nepali": "कानुन फर्म"},
-    {"English": "License", "Nepali": "अनुमति पत्र"},
-    {"English": "Regulation", "Nepali": "नियम"},
-    {"English": "Immigration law", "Nepali": "आप्रवासन कानुन"},
-    {"English": "Civil law", "Nepali": "नागरिक कानुन"},
-    {"English": "Criminal law", "Nepali": "आपराधिक कानुन"},
-    {"English": "Evidence", "Nepali": "सबूत"},
-    {"English": "Testimony", "Nepali": "गवाही"},
-    {"English": "Probation", "Nepali": "परीक्षण अवधि"},
-    {"English": "Bail", "Nepali": "जमानत"},
-    {"English": "Plea", "Nepali": "माफीको आग्रह"},
-    {"English": "Verdict", "Nepali": "निर्णय"},
-    {"English": "Law enforcement", "Nepali": "कानुन कार्यान्वयन"},
-    {"English": "Jurisdiction", "Nepali": "अधिकार क्षेत्र"},
-    {"English": "Summons", "Nepali": "समन"},
-    {"English": "Lawsuit", "Nepali": "मुद्दा"},
-    {"English": "Appeal court", "Nepali": "अपिल अदालत"},
-    {"English": "Parole", "Nepali": "मुक्ति"},
-    {"English": "Forgery", "Nepali": "जाली पत्र"},
-    {"English": "Fraud", "Nepali": "धोखाधड़ी"},
-    {"English": "Investigation", "Nepali": "जाँच"},
-    {"English": "Defense", "Nepali": "रक्षा"},
-    {"English": "Prosecution", "Nepali": "प्रतिवादी पक्ष"},
-    {"English": "Sentence", "Nepali": "दण्ड"},
-    {"English": "Appeal", "Nepali": "अपील"},
-    {"English": "Warrant", "Nepali": "हुकुम"},
-    {"English": "Hearing", "Nepali": "सुनुवाई"},
-    {"English": "Custody", "Nepali": "हिरासत"}
+  "BUSINESS": [
+    {
+      "English": "business",
+      "Nepali": "व्यवसाय / व्यापार"
+    },
+    {
+      "English": "food business",
+      "Nepali": "खाद्य व्यवसाय"
+    },
+    {
+      "English": "mobile business",
+      "Nepali": "घुम्ती / ठेला व्यवसाय"
+    },
+    {
+      "English": "start-up",
+      "Nepali": "नयाँ व्यवसाय"
+    },
+    {
+      "English": "business plan",
+      "Nepali": "व्यावसायिक योजना"
+    },
+    {
+      "English": "business owner",
+      "Nepali": "व्यवसायी / व्यवसायका मालिक"
+    },
+    {
+      "English": "entrepreneur",
+      "Nepali": "उद्यमी"
+    },
+    {
+      "English": "investor",
+      "Nepali": "लगानीकर्ता"
+    },
+    {
+      "English": "sole trader",
+      "Nepali": "एकल व्यापारी"
+    },
+    {
+      "English": "advertisement",
+      "Nepali": "विज्ञापन"
+    },
+    {
+      "English": "advertising company",
+      "Nepali": "विज्ञापन संस्था"
+    },
+    {
+      "English": "advertising agent",
+      "Nepali": "विज्ञापन एजेन्ट"
+    },
+    {
+      "English": "promotion",
+      "Nepali": "प्रवर्द्धन गर्नु"
+    },
+    {
+      "English": "publicity",
+      "Nepali": "प्रचार प्रसार"
+    },
+    {
+      "English": "media outlet",
+      "Nepali": "सञ्चार माध्यम"
+    },
+    {
+      "English": "social media",
+      "Nepali": "सामाजिक सञ्जाल"
+    },
+    {
+      "English": "client",
+      "Nepali": "सेवाग्राही / ग्राहक"
+    },
+    {
+      "English": "customer",
+      "Nepali": "ग्राहक"
+    },
+    {
+      "English": "targeted audience",
+      "Nepali": "लक्षित ग्राहक/दर्शक"
+    },
+    {
+      "English": "supplier",
+      "Nepali": "आपूर्तिकर्ता"
+    },
+    {
+      "English": "market research",
+      "Nepali": "बजार अनुसन्धान"
+    },
+    {
+      "English": "competitor",
+      "Nepali": "प्रत्यस्पर्धी"
+    },
+    {
+      "English": "industry",
+      "Nepali": "उद्योग"
+    },
+    {
+      "English": "workshop",
+      "Nepali": "कार्यशाला"
+    },
+    {
+      "English": "skill",
+      "Nepali": "दक्षता / सीप"
+    },
+    {
+      "English": "product",
+      "Nepali": "उत्पादन / सामग्री"
+    },
+    {
+      "English": "information",
+      "Nepali": "जानकारी"
+    },
+    {
+      "English": "recommend",
+      "Nepali": "सिफारिस गर्नु"
+    },
+    {
+      "English": "professional",
+      "Nepali": "व्यावसायिक / पेशेवर"
+    },
+    {
+      "English": "review",
+      "Nepali": "समीक्षा"
+    },
+    {
+      "English": "publication",
+      "Nepali": "प्रकाशन"
+    },
+    {
+      "English": "billboard",
+      "Nepali": "विज्ञापन पाटी"
+    },
+    {
+      "English": "campaign",
+      "Nepali": "अभियान"
+    },
+    {
+      "English": "sample",
+      "Nepali": "नमूना"
+    },
+    {
+      "English": "quotation",
+      "Nepali": "मूल्य / शुल्क"
+    },
+    {
+      "English": "quality",
+      "Nepali": "गुणस्तर"
+    },
+    {
+      "English": "receipt",
+      "Nepali": "रसिद"
+    },
+    {
+      "English": "deal",
+      "Nepali": "सम्झौता"
+    },
+    {
+      "English": "partnership",
+      "Nepali": "साझेदारी"
+    },
+    {
+      "English": "contract terms",
+      "Nepali": "करार सर्तहरू"
+    },
+    {
+      "English": "sign",
+      "Nepali": "हस्ताक्षर"
+    },
+    {
+      "English": "long-term",
+      "Nepali": "दीर्घकालीन"
+    },
+    {
+      "English": "manager",
+      "Nepali": "प्रबन्धक"
+    },
+    {
+      "English": "discount",
+      "Nepali": "छुट"
+    },
+    {
+      "English": "tax file number",
+      "Nepali": "करदाता/दर्ता संख्या"
+    },
+    {
+      "English": "requirement",
+      "Nepali": "आवश्यकता"
+    },
+    {
+      "English": "excited",
+      "Nepali": "उत्साहित"
+    },
+    {
+      "English": "simple",
+      "Nepali": "सरल"
+    },
+    {
+      "English": "option",
+      "Nepali": "विकल्प"
+    },
+    {
+      "English": "service charge",
+      "Nepali": "सेवा शुल्क"
+    },
+    {
+      "English": "investment",
+      "Nepali": "लगानी"
+    },
+    {
+      "English": "strategy",
+      "Nepali": "रणनीति"
+    },
+    {
+      "English": "contact detail",
+      "Nepali": "सम्पर्क विवरण"
+    },
+    {
+      "English": "recycle",
+      "Nepali": "पुनः प्रयोग गर्नु"
+    },
+    {
+      "English": "public awareness",
+      "Nepali": "जन चेतना"
+    },
+    {
+      "English": "office",
+      "Nepali": "कार्यालय"
+    },
+    {
+      "English": "plan",
+      "Nepali": "योजना"
+    },
+    {
+      "English": "registration",
+      "Nepali": "दर्ता"
+    },
+    {
+      "English": "experience",
+      "Nepali": "अनुभव"
+    },
+    {
+      "English": "profit",
+      "Nepali": "नाफा"
+    },
+    {
+      "English": "loss",
+      "Nepali": "घाटा"
+    },
+    {
+      "English": "sales",
+      "Nepali": "बिक्री"
+    },
+    {
+      "English": "print",
+      "Nepali": "छाप्नु"
+    },
+    {
+      "English": "brochure",
+      "Nepali": "जानकारी पर्ची / पुस्तिका"
+    },
+    {
+      "English": "black and white",
+      "Nepali": "स्याहो / श्याम-श्वेत"
+    },
+    {
+      "English": "size",
+      "Nepali": "आकार"
+    },
+    {
+      "English": "financial assistance",
+      "Nepali": "वित्तीय सहायता"
+    },
+    {
+      "English": "government grant",
+      "Nepali": "सरकारी अनुदान"
+    },
+    {
+      "English": "tax incentive",
+      "Nepali": "कर सहुलियत/छुट"
+    }
   ]
 }
