@@ -1484,15 +1484,15 @@
   "HEALTH": [
     {
       "English": "doctor",
-      "Nepali": "चिकित्सि"
+      "Nepali": "चिकित्सक"
     },
     {
       "English": "GP",
-      "Nepali": "सामान्य चिकित्सि"
+      "Nepali": "सामान्य चिकित्सक"
     },
     {
       "English": "dentist",
-      "Nepali": "दन्त चिकित्सि"
+      "Nepali": "दन्त चिकित्सक"
     },
     {
       "English": "midwife",
@@ -1500,19 +1500,19 @@
     },
     {
       "English": "pharmacist",
-      "Nepali": "औषचि बििेता"
+      "Nepali": "औषधि बिक्रेता"
     },
     {
       "English": "cardiologist",
       "Nepali": "मुटुरोग विशेषज्ञ"
     },
     {
-      "English": "pediatrist",
-      "Nepali": "िाल रोग विशेषज्ञ"
+      "English": "pediatrician",
+      "Nepali": "बाल रोग विशेषज्ञ"
     },
     {
       "English": "health centre",
-      "Nepali": "स्िास््य िेन्र"
+      "Nepali": "स्वास्थ्य केन्द्र"
     },
     {
       "English": "clinic",
@@ -1520,19 +1520,19 @@
     },
     {
       "English": "pharmacy",
-      "Nepali": "औषिालय / औषचि पसल"
+      "Nepali": "औषधालय / औषधि पसल"
     },
     {
       "English": "treatment",
-      "Nepali": "उपिार"
+      "Nepali": "उपचार"
     },
     {
       "English": "immune system",
-      "Nepali": "रोग प्रततरोिात्मि/प्रततरक्षा प्रणाली"
+      "Nepali": "रोग प्रतिरोधात्मक/प्रतिरक्षा प्रणाली"
     },
     {
       "English": "surgery",
-      "Nepali": "शल्यकिया"
+      "Nepali": "शल्यक्रिया"
     },
     {
       "English": "bandage/braces",
@@ -1544,19 +1544,19 @@
     },
     {
       "English": "health check-up",
-      "Nepali": "स्िास््य जााँि"
+      "Nepali": "स्वास्थ्य जाँच"
     },
     {
       "English": "appointment",
-      "Nepali": "भेटिाताा / स्िास््य जााँििो समय"
+      "Nepali": "भेटघाट / स्वास्थ्य जाँचको समय"
     },
     {
       "English": "prescription",
-      "Nepali": "औषचि पिी"
+      "Nepali": "औषधि पर्ची"
     },
     {
       "English": "prescribe",
-      "Nepali": "औषचि लेखिददनु"
+      "Nepali": "औषधि लेखिदिनु"
     },
     {
       "English": "organ",
@@ -1568,11 +1568,11 @@
     },
     {
       "English": "cell",
-      "Nepali": "िोशशिा"
+      "Nepali": "कोशिका"
     },
     {
       "English": "artery",
-      "Nepali": "िमनी"
+      "Nepali": "धमनी"
     },
     {
       "English": "vein",
@@ -1580,7 +1580,7 @@
     },
     {
       "English": "joint",
-      "Nepali": "जोनी"
+      "Nepali": "जोर्नी"
     },
     {
       "English": "lungs",
@@ -1592,27 +1592,27 @@
     },
     {
       "English": "kidney",
-      "Nepali": "मगृौला"
+      "Nepali": "मृगौला"
     },
     {
       "English": "knee",
-      "Nepali": "घुाँडा"
+      "Nepali": "घुँडा"
     },
     {
       "English": "respiratory tract/trachea",
-      "Nepali": "श्िासनली"
+      "Nepali": "श्वासनली"
     },
     {
       "English": "elbow",
-      "Nepali": "िुदिनो"
+      "Nepali": "कुन्डी"
     },
     {
       "English": "shoulder",
-      "Nepali": "िााँि"
+      "Nepali": "खुट्टा"
     },
     {
       "English": "ankle",
-      "Nepali": "िुिुा च्िा"
+      "Nepali": "खुट्टाको टाउको"
     },
     {
       "English": "symptom",
@@ -1620,87 +1620,87 @@
     },
     {
       "English": "painful",
-      "Nepali": "पीडादायि"
+      "Nepali": "पीडादायी"
     },
     {
       "English": "chronic pain",
-      "Nepali": "दीघािालीन दिुाइ"
+      "Nepali": "दीर्घकालीन दुखाइ"
     },
     {
       "English": "fracture",
-      "Nepali": "िाड भााँचिनु/िकिानु"
+      "Nepali": "हाड भाँचिनु/टुट्नु"
     },
     {
       "English": "sprain",
-      "Nepali": "मकिानु"
+      "Nepali": "मिच्नु"
     },
     {
       "English": "sharp pain",
-      "Nepali": "गदिरो दिुाइ"
+      "Nepali": "तेज दुखाइ"
     },
     {
       "English": "sore throat",
-      "Nepali": "घााँटी दखुु्न"
+      "Nepali": "घाँटी दुख्नु"
     },
     {
       "English": "runny nose",
-      "Nepali": "नाि िग्नु"
+      "Nepali": "नाक बग्नु"
     },
     {
       "English": "blocked nose",
-      "Nepali": "नाि िन्द िुनु"
+      "Nepali": "नाक बन्द हुनु"
     },
     {
       "English": "muscle pain",
-      "Nepali": "मांसपेशी दिुाइ"
+      "Nepali": "मांसपेशी दुखाइ"
     },
     {
       "English": "stiffness",
-      "Nepali": "िडापन"
+      "Nepali": "कडा पन"
     },
     {
       "English": "vomiting",
-      "Nepali": "िान्ता"
+      "Nepali": "वान्ता"
     },
     {
       "English": "dizziness",
-      "Nepali": "रराँगटा लाग्नु"
+      "Nepali": "रिंगटा लाग्नु"
     },
     {
       "English": "nausea",
-      "Nepali": "िाििािी"
+      "Nepali": "वान्ता लाग्नु"
     },
     {
       "English": "numbness",
-      "Nepali": "संिेदनशीलता िराउनु"
+      "Nepali": "संवेदनशीलता हराउनु"
     },
     {
       "English": "pins and needles",
-      "Nepali": "झमझमाउनु / तनदाउनु"
+      "Nepali": "झिमझिमाउनु / तनिनु"
     },
     {
       "English": "rashes",
-      "Nepali": "पातिनु"
+      "Nepali": "फोर्सा"
     },
     {
       "English": "allergy",
-      "Nepali": "प्रततप्रभाि / एलजी"
+      "Nepali": "प्रतिक्रिया / एलर्जी"
     },
     {
       "English": "hay fever",
-      "Nepali": "पराग ज्िरो"
+      "Nepali": "पराग ज्वरो"
     },
     {
       "English": "inflammation",
-      "Nepali": "सुजन / सुन्न्ननु"
+      "Nepali": "सुजन / सूजन"
     },
     {
       "English": "bone density",
-      "Nepali": "िाडिो घनत्ि"
+      "Nepali": "हाडको घनत्व"
     },
     {
       "English": "health issue",
-      "Nepali": "स्िास््य समस्या"
+      "Nepali": "स्वास्थ्य समस्या"
     },
     {
       "English": "disease",
@@ -1712,7 +1712,7 @@
     },
     {
       "English": "injury",
-      "Nepali": "िोटपटि"
+      "Nepali": "चोटपटक"
     },
     {
       "English": "serious",
@@ -1720,39 +1720,39 @@
     },
     {
       "English": "risk",
-      "Nepali": "जोखि"
+      "Nepali": "जोखिम"
     },
     {
       "English": "contagious",
-      "Nepali": "सरुिा"
+      "Nepali": "संक्रमणशील"
     },
     {
       "English": "painkiller",
-      "Nepali": "वपडानासि / दिुाइ िम गने औसचि"
+      "Nepali": "विरामदायी औषधि / दुखाइ कम गर्ने औषधि"
     },
     {
       "English": "antibiotic",
-      "Nepali": "प्रततजैविि"
+      "Nepali": "प्रतिजैविक"
     },
     {
       "English": "supplement",
-      "Nepali": "पूरि"
+      "Nepali": "पूरक"
     },
     {
       "English": "side effects",
-      "Nepali": "दषु्प्प्रभाि"
+      "Nepali": "गुणात्मक प्रभाव / दुष्प्रभाव"
     },
     {
       "English": "pill/tablet",
-      "Nepali": "िक्िी / गोली"
+      "Nepali": "गोलि / औषधि"
     },
     {
       "English": "syrup",
-      "Nepali": "झोल औषचि"
+      "Nepali": "झोल औषधि"
     },
     {
       "English": "nasal spray",
-      "Nepali": "नािमा ििसाउने औषचि"
+      "Nepali": "नाकमा लगाउने औषधि"
     },
     {
       "English": "pollen",
@@ -1760,11 +1760,11 @@
     },
     {
       "English": "relief",
-      "Nepali": "राित"
+      "Nepali": "राहत"
     },
     {
       "English": "chemical composition",
-      "Nepali": "रासायतनि संरिना"
+      "Nepali": "रासायनिक संरचना"
     },
     {
       "English": "database",
@@ -1772,27 +1772,27 @@
     },
     {
       "English": "recommend",
-      "Nepali": "शसफाररस गनुा"
+      "Nepali": "सिफारिस गर्नु"
     },
     {
       "English": "blood test result",
-      "Nepali": "रक्त परीक्षणिो परिणाम"
+      "Nepali": "रक्त परीक्षणको परिणाम"
     },
     {
       "English": "blood sugar level",
-      "Nepali": "रगतमा चिनीिको मात्रा"
+      "Nepali": "रक्तमा चिनीको मात्रा"
     },
     {
       "English": "blood sugar monitor",
-      "Nepali": "रगतमा चिनी मापन गने उपकरण"
+      "Nepali": "रक्तमा चिनी मापन गर्ने उपकरण"
     },
     {
       "English": "cholesterol",
-      "Nepali": "कोलेस्टेरोल"
+      "Nepali": "कोलेस्ट्रोल"
     },
     {
       "English": "normal range",
-      "Nepali": "सामान्य मात्रा/श्रेणी"
+      "Nepali": "सामान्य सीमा/श्रेणी"
     },
     {
       "English": "diabetes",
@@ -1804,7 +1804,7 @@
     },
     {
       "English": "arthritis",
-      "Nepali": "राि जोर्नी दुख्ने रोग / अर्थराइटिस"
+      "Nepali": "जोर्नी दुख्ने रोग / अर्थराइटिस"
     },
     {
       "English": "asthma",
@@ -1844,7 +1844,7 @@
     },
     {
       "English": "recover",
-      "Nepali": "ठिक हुनु"
+      "Nepali": "ठीक हुनु"
     },
     {
       "English": "mosquito repellent",
@@ -1880,7 +1880,7 @@
     },
     {
       "English": "physiotherapist",
-      "Nepali": "फिजियोथेरापिस्ट / भौततिक चिकित्सक"
+      "Nepali": "फिजियोथेरापिस्ट / भौतिक चिकित्सक"
     },
     {
       "English": "bottle",
