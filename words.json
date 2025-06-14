@@ -1234,7 +1234,7 @@
     },
     {
       "English": "real estate agent",
-      "Nepali": "घरजग्गा अभभकताा"
+      "Nepali": "घरजग्गा अभिकर्ता"
     },
     {
       "English": "building manager",
@@ -1250,7 +1250,7 @@
     },
     {
       "English": "house/apartment",
-      "Nepali": "घर / अपाटामेन्ट"
+      "Nepali": "घर / अपार्टमेन्ट"
     },
     {
       "English": "garden",
@@ -1258,15 +1258,15 @@
     },
     {
       "English": "title deed",
-      "Nepali": "लालपुजाा"
+      "Nepali": "लालपुर्जा"
     },
     {
       "English": "design",
-      "Nepali": "ढााँचा"
+      "Nepali": "ढाँचा"
     },
     {
       "English": "feature",
-      "Nepali": "त्तवशेषता"
+      "Nepali": "विशेषता"
     },
     {
       "English": "toilet",
@@ -1278,11 +1278,11 @@
     },
     {
       "English": "furnished",
-      "Nepali": "सुसज्जजत"
+      "Nepali": "सुसज्जित"
     },
     {
       "English": "backyard",
-      "Nepali": "पछाडडको आाँगन"
+      "Nepali": "पछाडिको आँगन"
     },
     {
       "English": "bedroom",
@@ -1302,11 +1302,11 @@
     },
     {
       "English": "pay slip",
-      "Nepali": "आय पची"
+      "Nepali": "आय पर्ची"
     },
     {
       "English": "photo ID",
-      "Nepali": "तज्स्वर पररचयपत्र"
+      "Nepali": "तस्बिर सहितको परिचयपत्र"
     },
     {
       "English": "passport",
@@ -1314,7 +1314,7 @@
     },
     {
       "English": "driving license",
-      "Nepali": "सवारी चालक अनुमतत पत्र"
+      "Nepali": "सवारी चालक अनुमतिपत्र"
     },
     {
       "English": "employment contract",
@@ -1322,11 +1322,11 @@
     },
     {
       "English": "personal reference",
-      "Nepali": "व्यज्ततगत भसफाररस"
+      "Nepali": "व्यक्तिगत सिफारिस"
     },
     {
       "English": "reference number",
-      "Nepali": "सन्दभा नम्बर/सङ्ख्या"
+      "Nepali": "सन्दर्भ नम्बर/संख्या"
     },
     {
       "English": "residential address",
@@ -1334,7 +1334,7 @@
     },
     {
       "English": "previous address",
-      "Nepali": "हालको ठेगाना"
+      "Nepali": "अघिल्लो ठेगाना"
     },
     {
       "English": "current address",
@@ -1346,7 +1346,7 @@
     },
     {
       "English": "repair",
-      "Nepali": "ममात"
+      "Nepali": "मर्मत"
     },
     {
       "English": "repaint",
@@ -1362,19 +1362,19 @@
     },
     {
       "English": "fade",
-      "Nepali": "फफका हुनु / खुइभलन ु"
+      "Nepali": "फिका हुनु / खुइलिनु"
     },
     {
       "English": "register",
-      "Nepali": "दताा गनुा"
+      "Nepali": "दर्ता गर्नु"
     },
     {
       "English": "building inspection",
-      "Nepali": "भवन तनरीक्षण"
+      "Nepali": "भवन निरीक्षण"
     },
     {
       "English": "rental history",
-      "Nepali": "भाडादारी इततहास"
+      "Nepali": "भाडादारी इतिहास"
     },
     {
       "English": "rental bond",
@@ -1382,27 +1382,27 @@
     },
     {
       "English": "civil and administrative tribunal",
-      "Nepali": "नागररक र प्रशासतनक न्यायाधधकरण"
+      "Nepali": "नागरिक र प्रशासनिक न्यायाधिकरण"
     },
     {
       "English": "tenancy dispute",
-      "Nepali": "भाडादारी त्तववाद"
+      "Nepali": "भाडादारी विवाद"
     },
     {
       "English": "mortgage",
-      "Nepali": "घर कजाा"
+      "Nepali": "घर कर्जा"
     },
     {
       "English": "ownership",
-      "Nepali": "स्वाभमत्व"
+      "Nepali": "स्वामित्व"
     },
     {
       "English": "buyer",
-      "Nepali": "खररददार / के्रता"
+      "Nepali": "खरिददार / क्रेता"
     },
     {
       "English": "apply",
-      "Nepali": "आवेदन ददनु"
+      "Nepali": "आवेदन दिनु"
     },
     {
       "English": "application form",
@@ -1410,35 +1410,35 @@
     },
     {
       "English": "train station",
-      "Nepali": "रेल अड्डा"
+      "Nepali": "रेल स्टेशन"
     },
     {
       "English": "bus station",
-      "Nepali": "बस त्तवसौनी"
+      "Nepali": "बस बिसौनी"
     },
     {
       "English": "public transport",
-      "Nepali": "सावाजतनक यातायात"
+      "Nepali": "सार्वजनिक यातायात"
     },
     {
       "English": "neighbour",
-      "Nepali": "तछमेकी"
+      "Nepali": "छिमेकी"
     },
     {
       "English": "neighbourhood",
-      "Nepali": "छरतछमेक"
+      "Nepali": "छिमेक"
     },
     {
       "English": "amenities",
-      "Nepali": "सुत्तवधाहरू"
+      "Nepali": "सुविधाहरू"
     },
     {
       "English": "convenient",
-      "Nepali": "सुत्तवधाजनक / सज्जलो"
+      "Nepali": "सुविधाजनक / सजिलो"
     },
     {
       "English": "park",
-      "Nepali": "पाका"
+      "Nepali": "पार्क"
     },
     {
       "English": "sight/view",
@@ -1446,39 +1446,39 @@
     },
     {
       "English": "spacious",
-      "Nepali": "फराफकलो"
+      "Nepali": "फराकिलो"
     },
     {
       "English": "weekly",
-      "Nepali": "साप्तादहक"
+      "Nepali": "साप्ताहिक"
     },
     {
       "English": "fortnightly",
-      "Nepali": "पाक्षक्षक"
+      "Nepali": "पाक्षिक"
     },
     {
       "English": "cleaning schedule",
-      "Nepali": "सरसफाइ ताभलका"
+      "Nepali": "सरसफाइ तालिका"
     },
     {
       "English": "shopping",
-      "Nepali": "फकनमेल"
+      "Nepali": "किनमेल"
     },
     {
       "English": "bathroom leakage",
-      "Nepali": "स्नानकक्षमा पानी चुदहन ु"
+      "Nepali": "स्नानकक्षमा पानी चुहिनु"
     },
     {
       "English": "dishwasher malfunction",
-      "Nepali": "भाडा धुने मभेसन/उकरण बबग्रन ु"
+      "Nepali": "भाँडा धुने मेसिन बिग्रनु"
     },
     {
       "English": "website",
-      "Nepali": "वेबसाइट / त्तवद्धुततय ठेगाना"
+      "Nepali": "वेबसाइट / विद्युतीय ठेगाना"
     },
     {
       "English": "annual general meeting",
-      "Nepali": "वात्तषाक साधारण सभा"
+      "Nepali": "वार्षिक साधारण सभा"
     }
   ],
   "HEALTH": [
